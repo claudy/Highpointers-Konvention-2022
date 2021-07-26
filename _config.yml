@@ -28,7 +28,7 @@ permalink: /:categories/:year/:month/:day/:title
 
 # Build settings
 markdown: kramdown
-remote_theme: huangyz0918/moving
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
