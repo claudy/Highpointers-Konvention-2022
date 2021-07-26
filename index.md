@@ -1,5 +1,3 @@
-# Highpointers Convention 2022
-
 <div class="container">
   <!--This right side image must come first-->
   <div class="right">
@@ -9,13 +7,13 @@
   <div class="left">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ante metus dictum at tempor commodo ullamcorper a. Consequat interdum varius sit amet mattis. Aliquet nibh praesent tristique magna sit amet purus. Nibh sed pulvinar proin gravida hendrerit lectus. Faucibus turpis in eu mi bibendum neque egestas congue quisque. Tempor commodo ullamcorper a lacus vestibulum sed arcu non. Commodo nulla facilisi nullam vehicula. Mattis aliquam faucibus purus in massa. Praesent tristique magna sit amet purus gravida quis blandit. Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Vitae tempus quam pellentesque nec nam aliquam. Tellus integer feugiat scelerisque varius morbi enim nunc. Eget mauris pharetra et ultrices neque ornare aenean. Viverra vitae congue eu consequat ac felis donec.
   </div>
-
 </div>
 
 
 -----------
+
 | Details | | | 
-|---------|----------|------|
+|:---------|:----------|:------|
 | Where | TBA | | |
 | When  | TBA | | |
 | Registration | TBA | | |
@@ -31,7 +29,7 @@ Taxis and ride sharing are common in Pittsburgh.
 
 ## Nearby Airports
 | Airport                  | Distance | Code |
-|--------------------------|----------|------|
+|:---------|:----------|:------|
 | [Pittsburgh International](https://flypittsburgh.com/) | TBA  | PIT |
 | [Arnold Palmer Latrobe](https://www.latrobe-airport.com/)    | TBA  | LBE  |
 | [Allegheny County Airport](https://flypittsburgh.com/allegheny-county-airport/) | TBA  | AGC |
@@ -42,8 +40,8 @@ Taxis and ride sharing are common in Pittsburgh.
 
 ## Nearby Train Stations
 The Amtrak route Captiol Limited does two trips a day. It is ideal for those who want less driving and more relaxing.
-| Train Station            | Distance |
-|--------------------------|----------|
+| Train Station | Distance |
+|:---------|:----------|
 | Connellsville | TBA |
 | Pittsburgh    | TBA |
 | Cumberland    | TBA |
@@ -51,7 +49,7 @@ The Amtrak route Captiol Limited does two trips a day. It is ideal for those who
 
 ## Nearby Hospitals
 | Location | Hospital
-|----------|------------|
+|:---------|:----------|
 | Venue |UPMC Somerset|
 | Venue |Highlands Hospital|
 | Venue |Excela Health Westmoreland Hospital|
