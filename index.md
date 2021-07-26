@@ -1,13 +1,6 @@
-<div class="container">
-  <!--This right side image must come first-->
-  <div class="right">
-    <img style="float: right; overflow: auto;" height="100" width="100" src="https://highpointers.org/wp-content/uploads/2006/06/highpointers-logo-CO.jpg">
-  </div>
-  <!--The left side div must come second-->
-  <div class="left">
+<img style="float: right; overflow: auto;" height="100" width="100" src="https://highpointers.org/wp-content/uploads/2006/06/highpointers-logo-CO.jpg">
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ante metus dictum at tempor commodo ullamcorper a. Consequat interdum varius sit amet mattis. Aliquet nibh praesent tristique magna sit amet purus. Nibh sed pulvinar proin gravida hendrerit lectus. Faucibus turpis in eu mi bibendum neque egestas congue quisque. Tempor commodo ullamcorper a lacus vestibulum sed arcu non. Commodo nulla facilisi nullam vehicula. Mattis aliquam faucibus purus in massa. Praesent tristique magna sit amet purus gravida quis blandit. Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Vitae tempus quam pellentesque nec nam aliquam. Tellus integer feugiat scelerisque varius morbi enim nunc. Eget mauris pharetra et ultrices neque ornare aenean. Viverra vitae congue eu consequat ac felis donec.
-  </div>
-</div>
 
 
 -----------
