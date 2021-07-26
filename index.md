@@ -32,33 +32,33 @@ Taxis and ride sharing are common in Pittsburgh.
 ## Nearby Airports
 | Airport                  | Distance | Code |
 |--------------------------|----------|------|
-| [Pittsburgh International](https://flypittsburgh.com/) | TBA  | PIT
-| [Arnold Palmer Latrobe](https://www.latrobe-airport.com/)    | TBA  | LBE 
-| [Allegheny County Airport](https://flypittsburgh.com/allegheny-county-airport/) | TBA  | AGC 
-| [Somerset County Airport](http://www.co.somerset.pa.us/airport/runwayinfo.htm)  | TBA     | 2G9
-| [John Murtha Johnstown](https://flyjst.com/)    | TBA  | JST
-| [Morgantown Municipal Airport](https://www.morgantownairport.com/)| TBA | MGW
+| [Pittsburgh International](https://flypittsburgh.com/) | TBA  | PIT |
+| [Arnold Palmer Latrobe](https://www.latrobe-airport.com/)    | TBA  | LBE  |
+| [Allegheny County Airport](https://flypittsburgh.com/allegheny-county-airport/) | TBA  | AGC |
+| [Somerset County Airport](http://www.co.somerset.pa.us/airport/runwayinfo.htm)  | TBA     | 2G9 |
+| [John Murtha Johnstown](https://flyjst.com/)    | TBA  | JST |
+| [Morgantown Municipal Airport](https://www.morgantownairport.com/)| TBA | MGW |
 
 
 ## Nearby Train Stations
 The Amtrak route Captiol Limited does two trips a day. It is ideal for those who want less driving and more relaxing.
 | Train Station            | Distance |
 |--------------------------|----------|
-| Connellsville | TBA  
-| Pittsburgh    | TBA 
-| Cumberland    | TBA 
+| Connellsville | TBA |
+| Pittsburgh    | TBA |
+| Cumberland    | TBA |
 
 
 ## Nearby Hospitals
 | Location | Hospital
 |----------|------------|
-| Venue |UPMC Somerset
-| Venue |Highlands Hospital
-| Venue |Excela Health Westmoreland Hospital
-| Venue |AHN Hempfield Neighborhood Hospital
-| Mount Davis |Conemaugh Meyersdale Medical Center
-| Backbone Mountain |Garrett Regional Medical Center
-| Spruce Knob |Davis Medical Center
+| Venue |UPMC Somerset|
+| Venue |Highlands Hospital|
+| Venue |Excela Health Westmoreland Hospital|
+| Venue |AHN Hempfield Neighborhood Hospital|
+| Mount Davis |Conemaugh Meyersdale Medical Center|
+| Backbone Mountain |Garrett Regional Medical Center|
+| Spruce Knob |Davis Medical Center|
 
 <img src="https://dummyimage.com/600x400/eee/888" alt="placeholder"/>
 
@@ -73,9 +73,9 @@ Lectus proin nibh nisl condimentum id venenatis a. Suspendisse ultrices gravida 
 
 ## Nearby RV campgrounds
 
-#### Pioneer Park Campground
+#### [Pioneer Park Campground](https://www.pioneerparkcampground.com/)
 Vel orci porta non pulvinar neque laoreet suspendisse. Lorem donec massa sapien faucibus et. Ante in nibh mauris cursus mattis. Semper eget duis at tellus at urna condimentum mattis. Sit amet nisl suscipit adipiscing bibendum est ultricies. Lectus arcu bibendum at varius.
-#### Lost Mountain Campground
+#### [Lost Mountain Campground](http://www.lostmountaincampground.com/about.html)
 Nisl rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Sem integer vitae justo eget. Consequat ac felis donec et odio pellentesque. Lorem mollis aliquam ut porttitor. Id leo in vitae turpis massa. Sit amet consectetur adipiscing elit ut aliquam purus sit amet. Nulla facilisi etiam dignissim diam quis enim lobortis. Turpis egestas pretium aenean pharetra magna ac. Sit amet consectetur adipiscing elit ut aliquam. Pharetra vel turpis nunc eget lorem dolor.
 
 ## Nearby Tent campgrounds
