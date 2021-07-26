@@ -18,17 +18,17 @@ email: highpointersclub@gmail.com
   # Content in description will appear in your document head meta (for
   # Google search results) and in your feed.xml site description.
 description: >- # this means to ignore newlines until "baseurl:"
-  Highpointing Convention 2022 Pennsylvania. Mount Davis is nearby in the Forbes National Forest, as well as 
+  Highpointers Convention 2022 Pennsylvania. Mount Davis is nearby in the Forbes National Forest, as well as 
   Maryland's Backbone Mountain and West Virgina's Spruce Knob. Come meet fellow highpointers at the Konvention.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://highpointerconvention2022.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "highpointersconvention2022.com" # the subpath of your site, e.g. /blog
+url: "https://highpointersconvention2022.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: highpointers
 #github_username:  claudy
 permalink: /:categories/:year/:month/:day/:title
 
 # Build settings
 markdown: kramdown
-theme: moving
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
