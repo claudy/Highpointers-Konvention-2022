@@ -21,18 +21,19 @@ Dolor morbi non arcu risus quis varius quam. Rutrum quisque non tellus orci ac. 
 Taxis and ride sharing are common in Pittsburgh.
 
 ## Nearby Airports
-| Airport                  | Distance | Code |
-|:---------|:----------|:------|
+
+| Airport | Distance | Code |
+|:--------|:----------|:------|
 | [Pittsburgh International](https://flypittsburgh.com/) | TBA  | PIT |
-| [Arnold Palmer Latrobe](https://www.latrobe-airport.com/)    | TBA  | LBE  |
+| [Arnold Palmer Latrobe](https://www.latrobe-airport.com/) | TBA  | LBE |
 | [Allegheny County Airport](https://flypittsburgh.com/allegheny-county-airport/) | TBA  | AGC |
-| [Somerset County Airport](http://www.co.somerset.pa.us/airport/runwayinfo.htm)  | TBA     | 2G9 |
+| [Somerset County Airport](http://www.co.somerset.pa.us/airport/runwayinfo.htm)  | TBA  | 2G9 |
 | [John Murtha Johnstown](https://flyjst.com/)    | TBA  | JST |
 | [Morgantown Municipal Airport](https://www.morgantownairport.com/)| TBA | MGW |
 
-
 ## Nearby Train Stations
 The Amtrak route Captiol Limited does two trips a day. It is ideal for those who want less driving and more relaxing.
+
 | Train Station | Distance |
 |:---------|:----------|
 | Connellsville | TBA |
@@ -41,6 +42,7 @@ The Amtrak route Captiol Limited does two trips a day. It is ideal for those who
 
 
 ## Nearby Hospitals
+
 | Location | Hospital
 |:---------|:----------|
 | Venue |UPMC Somerset|
