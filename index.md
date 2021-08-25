@@ -56,9 +56,9 @@ The Amtrak route Captiol Limited does two trips a day. It is ideal for those who
 <img src="https://dummyimage.com/600x400/eee/888" alt="placeholder"/>
 
 ## Nearby Highpoints
-- Mount Davis
-- Backbone Mountain
-- Spruce Knob 
+- [Mount Davis](https://goo.gl/maps/mEP4Z3zyvJyBgwnA6)
+- [Backbone Mountain](https://goo.gl/maps/JR1GqqUPS1RW5ym27)
+- [Spruce Knob](https://goo.gl/maps/6G2VdQQbpCZyDUcm8)
 
 # Overnight accommodations 
 ## Block rooms
