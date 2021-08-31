@@ -34,24 +34,24 @@ Taxis and ride sharing are common in Pittsburgh - Uber, Lyft, ZTrip, etc.
 ## Nearby Train Stations
 The Amtrak route Captiol Limited does two trips a day. It is ideal for those who want less driving and more relaxing.
 
-| Train Station | Distance |
-|:---------|:----------|
-| Connellsville | TBA |
-| Pittsburgh    | TBA |
-| Cumberland    | TBA |
+| Train Station | Distance | Address |
+|:---------|:----------|:----------|
+| Connellsville | TBA | North Water Street &, W Peach St, Connellsville, PA 15425 |
+| Pittsburgh    | TBA | 1100 Liberty Ave, Pittsburgh, PA 15222
+| Cumberland    | TBA | 201 E Harrison St, Cumberland, MD 21502
 
 
 ## Nearby Hospitals
 
-| Location | Hospital
-|:---------|:----------|
-| Venue |UPMC Somerset|
-| Venue |Highlands Hospital|
-| Venue |Excela Health Westmoreland Hospital|
-| Venue |AHN Hempfield Neighborhood Hospital|
-| Mount Davis |Conemaugh Meyersdale Medical Center|
-| Backbone Mountain |Garrett Regional Medical Center|
-| Spruce Knob |Davis Medical Center|
+| Close to | Hospital | Address |
+|:---------|:----------|:----------|
+| Venue |[UPMC Somerset](https://www.somersethospital.com/)| 225 South Center Avenue, Somerset, PA 15501 |
+| Venue |[Highlands Hospital](https://www.highlandshospital.org/)| 401 E Murphy Ave, Connellsville, PA 15425|
+| Venue |[Excela Health Westmoreland Hospital](https://www.excelahealth.org/documents/content/Westmoreland-Map-11-16.pdf)| 532 W Pittsburgh St, Greensburg, PA 15601 | 
+| Venue |[AHN Hempfield Neighborhood Hospital](https://www.ahnneighborhood.org/locations/hempfield/)| 6321 US-30, Greensburg, PA 15601 |
+| Mount Davis |[Conemaugh Meyersdale Medical Center](https://www.conemaugh.org/patients-and-visitors/about-conemaugh/locations/conemaugh-meyersdale-medical-center)| 200 Hospital Drive, Meyersdale, PA 15552 |
+| Backbone Mountain |[Garrett Regional Medical Center](https://www.grmc-wvumedicine.org/)| 251 N 4th St, Oakland, MD 21550 |
+| Spruce Knob |[Davis Medical Center](https://www.davishealthsystem.org/)| 812 Gorman Ave, Elkins, WV 26241 | 
 
 <br/>
 <br/>
