@@ -68,7 +68,7 @@ These links are for the trailheads and parking:
         
     Lat, Lon = 39.78615334293772, -79.17828411341783
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://commons.wikimedia.org/wiki/Category:Mount_Davis_(Pennsylvania)#/media/File:Mt_Davis_Region_-_panoramio_(47).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Mt_Davis_Region_-_panoramio_%2847%29.jpg" alt="Rock at Mt Davis" style="max-width:300px;width:100%;"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://commons.wikimedia.org/wiki/Category:Mount_Davis_(Pennsylvania)#/media/File:Mt_Davis_Region_-_panoramio_(47).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mt_Davis_Region_-_panoramio_%2847%29.jpg/320px-Mt_Davis_Region_-_panoramio_%2847%29.jpg" alt="Rock at Mt Davis" style="max-width:300px;width:100%;"/></a>
 
 ### [Backbone Mountain](https://goo.gl/maps/JR1GqqUPS1RW5ym27)
 - Parking is limited to a couple of cars (39.24427718071751, -79.4924738299859). If you are ok with a longer walk, consider parking at [Our Lady of the Pines Church](https://goo.gl/maps/YDFvCYvyGi1m7Vkb9)
@@ -76,14 +76,14 @@ These links are for the trailheads and parking:
 - Nearby camping includes [Restrite Campground](https://goo.gl/maps/TVNF33T4Bck4zyDF7), [Blackwater Falls Campground](https://wvstateparks.com/places-to-stay/campgrounds/blackwater-falls-camping), [Horseshoe Campground](https://www.fs.usda.gov/recarea/mnf/recreation/camping-cabins/recarea/?recid=6982&actid=29)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Backbone_Mountain#/media/File:Hoye-Crest_Historical_Marker.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Hoye-Crest_Historical_Marker.jpg" alt="Sign at Backbone Mountain" style="max-width:300px;width:100%;"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Backbone_Mountain#/media/File:Hoye-Crest_Historical_Marker.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hoye-Crest_Historical_Marker.jpg/320px-Hoye-Crest_Historical_Marker.jpg" alt="Sign at Backbone Mountain" style="max-width:300px;width:100%;"/></a>
 
 
 ### [Spruce Knob](https://goo.gl/maps/WtHnq48xLoNz2bbC8) 
 
 - Ample parking available. A quick walk around the whispering spruce trail is recommended. Camping and boating is available at [Spruce Knob Lake Campground](https://www.fs.usda.gov/recarea/mnf/recarea/?recid=7005). There are [cabins for rent](https://sprucemtncabins.com/) nearby.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Spruce_Mountain_(West_Virginia)#/media/File:Observation_tower_atop_Spruce_Knob.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Observation_tower_atop_Spruce_Knob.jpg" alt="Tower at Spruce Knob" style="max-width:300px;width:100%;"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Spruce_Mountain_(West_Virginia)#/media/File:Observation_tower_atop_Spruce_Knob.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Observation_tower_atop_Spruce_Knob.jpg/320px-Observation_tower_atop_Spruce_Knob.jpg" alt="Tower at Spruce Knob" style="max-width:300px;width:100%;"/></a>
 
 # Overnight accommodations 
 ## Block rooms
