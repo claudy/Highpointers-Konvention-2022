@@ -68,17 +68,22 @@ These links are for the trailheads and parking:
         
     Lat, Lon = 39.78615334293772, -79.17828411341783
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://commons.wikimedia.org/wiki/Category:Mount_Davis_(Pennsylvania)#/media/File:Mt_Davis_Region_-_panoramio_(47).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Mt_Davis_Region_-_panoramio_%2847%29.jpg" alt="Rock at Mt Davis" style="max-width:300px;width:100%;"/></a>
 
 ### [Backbone Mountain](https://goo.gl/maps/JR1GqqUPS1RW5ym27)
 - Parking is limited to a couple of cars (39.24427718071751, -79.4924738299859). If you are ok with a longer walk, consider parking at [Our Lady of the Pines Church](https://goo.gl/maps/YDFvCYvyGi1m7Vkb9)
 
 - Nearby camping includes [Restrite Campground](https://goo.gl/maps/TVNF33T4Bck4zyDF7), [Blackwater Falls Campground](https://wvstateparks.com/places-to-stay/campgrounds/blackwater-falls-camping), [Horseshoe Campground](https://www.fs.usda.gov/recarea/mnf/recreation/camping-cabins/recarea/?recid=6982&actid=29)
 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Backbone_Mountain#/media/File:Hoye-Crest_Historical_Marker.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Hoye-Crest_Historical_Marker.jpg" alt="Sign at Backbone Mountain" style="max-width:300px;width:100%;"/></a>
+
+
 ### [Spruce Knob](https://goo.gl/maps/WtHnq48xLoNz2bbC8) 
 
 - Ample parking available. A quick walk around the whispering spruce trail is recommended. Camping and boating is available at [Spruce Knob Lake Campground](https://www.fs.usda.gov/recarea/mnf/recarea/?recid=7005). There are [cabins for rent](https://sprucemtncabins.com/) nearby.
 
-<img src="https://dummyimage.com/600x400/eee/888" alt="placeholder"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Spruce_Mountain_(West_Virginia)#/media/File:Observation_tower_atop_Spruce_Knob.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Observation_tower_atop_Spruce_Knob.jpg" alt="Tower at Spruce Knob" style="max-width:300px;width:100%;"/></a>
 
 # Overnight accommodations 
 ## Block rooms
@@ -99,18 +104,17 @@ Vel orci porta non pulvinar neque laoreet suspendisse. Lorem donec massa sapien 
 
 
 ## Nearby Tent campgrounds
-#### [Laural Hill State Park](https://pennsylvaniastateparks.reserveamerica.com/camping/laurel-hill-state-park/r/campgroundDetails.do?contractCode=PA&parkId=880207)
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Noun_camp_2695642.svg" alt="placeholder"/>
 
-#### [Lost Mountain Campground](http://www.lostmountaincampground.com/about.html)
+[Laural Hill State Park](https://pennsylvaniastateparks.reserveamerica.com/camping/laurel-hill-state-park/r/campgroundDetails.do?contractCode=PA&parkId=880207)
 
-#### [Posey Corners Campground](https://www.poseycorners.com/)
+[Lost Mountain Campground](http://www.lostmountaincampground.com/about.html)
 
-#### [Scottyland Camping Resort](http://scottylandcamping.com/)
+[Posey Corners Campground](https://www.poseycorners.com/)
+
+[Scottyland Camping Resort](http://scottylandcamping.com/)
 Scottyland also has a cabin.
 
-
-
-<img src="https://dummyimage.com/300x100/eee/888" alt="placeholder"/>
 
 # Attractions
 There is much to see in the region.  This list can help you start planning your exploration. The list is not exhaustive nor in any specific order.
@@ -136,7 +140,8 @@ Bike rentals are available at the [Confluence Cyclery](https://www.confluencecyc
 ## Salisbury Viaduct
 Justo donec enim diam vulputate ut pharetra. Gravida quis blandit turpis cursus in hac habitasse platea. Sed libero enim sed faucibus turpis in eu mi bibendum. Sed vulputate odio ut enim blandit. Id volutpat lacus laoreet non curabitur gravida. Vitae purus faucibus ornare suspendisse sed nisi lacus. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim. Sit amet facilisis magna etiam tempor orci eu lobortis elementum. Sem viverra aliquet eget sit amet tellus cras. Integer enim neque volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi etiam. Elementum tempus egestas sed sed risus. Mauris pharetra et ultrices neque ornare aenean euismod elementum nisi. Urna et pharetra pharetra massa massa ultricies. Mauris sit amet massa vitae tortor. Tempor commodo ullamcorper a lacus.
 
-<img src="https://dummyimage.com/300x100/eee/888" alt="placeholder"/>
+<a href="https://commons.wikimedia.org/wiki/File:Elevation_of_the_Salisbury_Viaduct,_Railway_Age_Gazette,_1911.png"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Elevation_of_the_Salisbury_Viaduct%2C_Railway_Age_Gazette%2C_1911.png" alt="Salsbury Viaduct" style="max-width:1400px;width:100%;"/></a>
+
 
 ## Snyder of Berlin PA 
 The snack company is currently not doing tours due to covid-19 restrictions but might in the future. Call to inquire.
@@ -151,7 +156,7 @@ Urna molestie at elementum eu facilisis sed odio. Nunc lobortis mattis aliquam f
 ## Flight 93 Memorial
 Dolor sit amet consectetur adipiscing elit ut. Donec enim diam vulputate ut pharetra. Massa tincidunt dui ut ornare lectus sit amet est placerat. Enim blandit volutpat maecenas volutpat blandit aliquam. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Aliquam id diam maecenas ultricies mi eget. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Accumsan lacus vel facilisis volutpat est. Tellus in metus vulputate eu scelerisque. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Ac auctor augue mauris augue neque gravida in. Odio aenean sed adipiscing diam donec. Sagittis vitae et leo duis ut diam quam nulla porttitor. Bibendum arcu vitae elementum curabitur vitae. Aliquet bibendum enim facilisis gravida neque. Malesuada bibendum arcu vitae elementum curabitur.
 
-<img src="https://dummyimage.com/300x100/eee/888" alt="placeholder"/>
+<a href="https://commons.wikimedia.org/wiki/File:A_tour_of_the_Flight_93_National_Memorial_-_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/A_tour_of_the_Flight_93_National_Memorial_-_01.jpg/640px-A_tour_of_the_Flight_93_National_Memorial_-_01.jpg" alt="Flight 93 National Memorial" style="max-width:320px;width:100%;"/></a>
 
 ## Guild of American Papercutters art museum
 Lobortis feugiat vivamus at augue eget arcu dictum varius. Morbi tincidunt ornare massa eget egestas purus viverra accumsan. Urna id volutpat lacus laoreet non. Pellentesque adipiscing commodo elit at imperdiet. Nunc sed augue lacus viverra vitae. Risus ultricies tristique nulla aliquet enim. Etiam tempor orci eu lobortis. Integer enim neque volutpat ac tincidunt vitae semper. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Vitae aliquet nec ullamcorper sit amet. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Orci ac auctor augue mauris. Condimentum id venenatis a condimentum. In fermentum posuere urna nec tincidunt praesent semper. Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo. Vitae ultricies leo integer malesuada nunc vel risus commodo.
