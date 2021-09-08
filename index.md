@@ -16,11 +16,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 # Registration
 Integer eget aliquet nibh praesent tristique magna sit amet. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Elementum integer enim neque volutpat ac tincidunt vitae. Senectus et netus et malesuada fames. Consequat ac felis donec et odio. Pellentesque id nibh tortor id aliquet lectus proin nibh. Varius morbi enim nunc faucibus a. Aliquam malesuada bibendum arcu vitae. Augue eget arcu dictum varius. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh sed. Amet purus gravida quis blandit turpis. Blandit cursus risus at ultrices mi tempus imperdiet nulla malesuada. Aenean pharetra magna ac placerat vestibulum. Augue eget arcu dictum varius. Tristique risus nec feugiat in fermentum posuere urna nec tincidunt. Sodales ut etiam sit amet. Maecenas ultricies mi eget mauris pharetra. Porttitor massa id neque aliquam. Sed arcu non odio euismod lacinia at.
 
-Dolor morbi non arcu risus quis varius quam. Rutrum quisque non tellus orci ac. Consectetur adipiscing elit duis tristique sollicitudin nibh. Neque volutpat ac tincidunt vitae. Tempor nec feugiat nisl pretium fusce id velit ut tortor. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Auctor eu augue ut lectus arcu. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc consequat. Tincidunt lobortis feugiat vivamus at augue. Odio facilisis mauris sit amet massa vitae tortor condimentum. Imperdiet proin fermentum leo vel. Volutpat diam ut venenatis tellus in. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue eget. Tincidunt ornare massa eget egestas. Nunc vel risus commodo viverra maecenas accumsan. Amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus et. Cras semper auctor neque vitae tempus quam pellentesque nec nam. Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac.
+Dolor morbi non arcu risus quis varius quam. Rutrum quisque non tellus orci ac. Consectetur adipiscing elit duis tristique sollicitudin nibh. Neque volutpat ac tincidunt vitae. Tempor nec feugiat nisl pretium fusce id velit ut tortor. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Auctor eu augue ut lectus arcu. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc consequat. Tincidunt lobortis feugiat vivamus at augue. Odio facilisis mauris sit amet massa vitae tortor condimentum. Imperdiet proin fermentum leo vel. Volutpat diam ut venenatis tellus in. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue eget. Tincidunt ornare massa eget egestas. Nunc vel risus commodo viverra maecenas accumsan. Amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus et. Cras semper auctor neque vitae tempus quam pellentesque nec nam. 
 
-Taxis and ride sharing are common in Pittsburgh - Uber, Lyft, ZTrip, etc.
+## Registration fees
+Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac.
 
+
+# Nearby
 ## Nearby Airports
+Taxis and ride sharing are common in Pittsburgh - Uber, Lyft, ZTrip, etc.
 
 | Airport | Distance | Code |
 |:--------|:----------|:------|
@@ -42,6 +46,7 @@ The Amtrak route Captiol Limited does two trips a day. It is ideal for those who
 
 
 ## Nearby Hospitals
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Noun_Health_4215.svg" style="max-width:50px;width:100%;filter: invert(60%) sepia(60%) brightness(70%) hue-rotate(250deg)" alt="Health icon" />
 
 | Close to | Hospital | Address |
 |:---------|:----------|:----------|
@@ -53,7 +58,6 @@ The Amtrak route Captiol Limited does two trips a day. It is ideal for those who
 | Backbone Mountain |[Garrett Regional Medical Center](https://www.grmc-wvumedicine.org/)| 251 N 4th St, Oakland, MD 21550 |
 | Spruce Knob |[Davis Medical Center](https://www.davishealthsystem.org/)| 812 Gorman Ave, Elkins, WV 26241 | 
 
-<br/>
 <br/>
 
 ## Nearby Highpoints
@@ -71,9 +75,12 @@ These links are for the trailheads and parking:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://commons.wikimedia.org/wiki/Category:Mount_Davis_(Pennsylvania)#/media/File:Mt_Davis_Region_-_panoramio_(47).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mt_Davis_Region_-_panoramio_%2847%29.jpg/320px-Mt_Davis_Region_-_panoramio_%2847%29.jpg" alt="Rock at Mt Davis" style="max-width:300px;width:100%;"/></a>
 
 ### [Backbone Mountain](https://goo.gl/maps/JR1GqqUPS1RW5ym27)
-- Parking is limited to a couple of cars (39.24427718071751, -79.4924738299859). If you are ok with a longer walk, consider parking at [Our Lady of the Pines Church](https://goo.gl/maps/YDFvCYvyGi1m7Vkb9)
+- Parking is limited to a couple of cars (Lat, Lon = 39.24427718071751, -79.4924738299859). If you are ok with a longer walk, consider parking at [Our Lady of the Pines Church](https://goo.gl/maps/YDFvCYvyGi1m7Vkb9)
 
-- Nearby camping includes [Restrite Campground](https://goo.gl/maps/TVNF33T4Bck4zyDF7), [Blackwater Falls Campground](https://wvstateparks.com/places-to-stay/campgrounds/blackwater-falls-camping), [Horseshoe Campground](https://www.fs.usda.gov/recarea/mnf/recreation/camping-cabins/recarea/?recid=6982&actid=29)
+- Nearby camping options 
+    - [Restrite Campground](https://goo.gl/maps/TVNF33T4Bck4zyDF7), 
+    - [Blackwater Falls Campground](https://wvstateparks.com/places-to-stay/campgrounds/blackwater-falls-camping), 
+    - [Horseshoe Campground](https://www.fs.usda.gov/recarea/mnf/recreation/camping-cabins/recarea/?recid=6982&actid=29)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Backbone_Mountain#/media/File:Hoye-Crest_Historical_Marker.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hoye-Crest_Historical_Marker.jpg/320px-Hoye-Crest_Historical_Marker.jpg" alt="Sign at Backbone Mountain" style="max-width:300px;width:100%;"/></a>
@@ -81,7 +88,7 @@ These links are for the trailheads and parking:
 
 ### [Spruce Knob](https://goo.gl/maps/WtHnq48xLoNz2bbC8) 
 
-- Ample parking available. A quick walk around the whispering spruce trail is recommended. Camping and boating is available at [Spruce Knob Lake Campground](https://www.fs.usda.gov/recarea/mnf/recarea/?recid=7005). There are [cabins for rent](https://sprucemtncabins.com/) nearby.
+- Ample parking available. A quick walk around the whispering spruce trail is recommended. Camping and boating is available at [Spruce Knob Lake Campground](https://www.fs.usda.gov/recarea/mnf/recarea/?recid=7005). There are [cabins for rent](https://sprucemtncabins.com/) within a short drive.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Spruce_Mountain_(West_Virginia)#/media/File:Observation_tower_atop_Spruce_Knob.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Observation_tower_atop_Spruce_Knob.jpg/320px-Observation_tower_atop_Spruce_Knob.jpg" alt="Tower at Spruce Knob" style="max-width:300px;width:100%;"/></a>
 
@@ -90,21 +97,19 @@ These links are for the trailheads and parking:
 Lectus proin nibh nisl condimentum id venenatis a. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla pellentesque. Dui accumsan sit amet nulla facilisi. Nibh ipsum consequat nisl vel pretium lectus quam id. Parturient montes nascetur ridiculus mus mauris. Augue neque gravida in fermentum et sollicitudin ac orci phasellus. Convallis posuere morbi leo urna molestie at elementum eu facilisis. Nulla pharetra diam sit amet nisl. Mi ipsum faucibus vitae aliquet nec ullamcorper sit amet risus. Ut eu sem integer vitae justo eget. Morbi tempus iaculis urna id. Non curabitur gravida arcu ac tortor dignissim. Tincidunt augue interdum velit euismod in pellentesque. Commodo elit at imperdiet dui accumsan sit. Volutpat maecenas volutpat blandit aliquam etiam erat. Sociis natoque penatibus et magnis dis parturient.
 
 ## Nearby RV campgrounds
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Pictograms-nps-rv_campground-2.svg" style="max-width:50px;width:100%;filter: invert(100%) sepia(100%) brightness(50%) hue-rotate(146deg)" alt="RV icon" />
 
-#### [Lost Mountain Campground](http://www.lostmountaincampground.com/about.html)
-Nisl rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Sem integer vitae justo eget. Consequat ac felis donec et odio pellentesque. Lorem mollis aliquam ut porttitor. Id leo in vitae turpis massa. Sit amet consectetur adipiscing elit ut aliquam purus sit amet. Nulla facilisi etiam dignissim diam quis enim lobortis. Turpis egestas pretium aenean pharetra magna ac. Sit amet consectetur adipiscing elit ut aliquam. Pharetra vel turpis nunc eget lorem dolor.
+[Lost Mountain Campground](http://www.lostmountaincampground.com/about.html)
 
+[Pioneer Park Campground](https://www.pioneerparkcampground.com/)
 
-#### [Pioneer Park Campground](https://www.pioneerparkcampground.com/)
-Vel orci porta non pulvinar neque laoreet suspendisse. Lorem donec massa sapien faucibus et. Ante in nibh mauris cursus mattis. Semper eget duis at tellus at urna condimentum mattis. Sit amet nisl suscipit adipiscing bibendum est ultricies. Lectus arcu bibendum at varius.
+[Posey Corners Campground](https://www.poseycorners.com/)
 
-#### [Posey Corners Campground](https://www.poseycorners.com/)
-
-#### [Scottyland Camping Resort](http://scottylandcamping.com/)
+[Scottyland Camping Resort](http://scottylandcamping.com/)
 
 
 ## Nearby Tent campgrounds
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Noun_camp_2695642.svg" alt="placeholder"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Noun_camp_2695642.svg" style="max-width:50px;width:100%;filter: invert(100%) sepia(100%) brightness(60%) hue-rotate(146deg)" alt="Tent icon" />
 
 [Laural Hill State Park](https://pennsylvaniastateparks.reserveamerica.com/camping/laurel-hill-state-park/r/campgroundDetails.do?contractCode=PA&parkId=880207)
 
@@ -117,6 +122,8 @@ Scottyland also has a cabin.
 
 
 # Attractions
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Noun_Camping_2695678.svg" style="max-width:50px;width:100%;filter: invert(100%) sepia(100%) brightness(60%) hue-rotate(146deg)" alt="Tent icon" />
+
 There is much to see in the region.  This list can help you start planning your exploration. The list is not exhaustive nor in any specific order.
 
 ## Laurel Ridge State Park
@@ -125,17 +132,19 @@ Vivamus arcu felis bibendum ut tristique. Phasellus vestibulum lorem sed risus u
 ### Laurel Highlands Hiking Trail
 Condimentum id venenatis a condimentum vitae sapien. Pharetra massa massa ultricies mi quis. Sit amet volutpat consequat mauris nunc congue nisi. 
 
-### Hemlock Trail Natural Area containing Old Growth
+### Hemlock Trail Natural Area
 
-Tortor posuere ac ut consequat. Pharetra et ultrices neque ornare. Ornare arcu odio ut sem nulla pharetra. Iaculis eu non diam phasellus vestibulum. Ac feugiat sed lectus vestibulum mattis ullamcorper velit. Viverra justo nec ultrices dui sapien eget.
+Hike 1.2 miles through Old Growth forest in the Laural Hill State Park. More information on the [Old-Growth Forest Network website](https://www.oldgrowthforest.net/pa-hemlock-trail-laurel-hill-state-park), which has a [map](https://www.oldgrowthforest.net/network-forests) for finding other old growth forests.
+<a href="https://www.oldgrowthforest.net/pa-hemlock-trail-laurel-hill-state-park">
+<img src="https://images.squarespace-cdn.com/content/v1/5c087e9e4cde7a66033e482d/1562704284255-I87K795NIFP9F24DK567/thumb_IMG_4175_1024.jpg?format=600w" alt="placeholder"/>
+</a>
 
 ## Greater Allegheny Passage Biking Trail
 Departing from Mount Davis by car, the nearest parking lot access to the [GAP Trail](https://gaptrail.org/) would be at Fort Hill. The Pinkerton Tunnel, which is recently renovated, is 2.5 miles east from the Fort Hill parking lot ([135 Sechler Rd, Fort Hill, PA 15540](https://goo.gl/maps/21M6i5k81VST2jBf9)) at mile 54.3 of the trail. Confluence is in the western direction from the Fort Hill parking lot. Confluence at mile marker 61.6.
 
 ## Confluence, PA
-Bike rentals are available at the [Confluence Cyclery](https://www.confluencecyclery.com/rentals.shtml). The town has a [visitor website](https://www.visitconfluence.info/) with ideas for recreation and exploring.
+Bike rentals are available at the [Confluence Cyclery](https://www.confluencecyclery.com/rentals.shtml). Confluence has a [visitor website](https://www.visitconfluence.info/) with ideas for recreation and exploring.
 
-<img src="https://dummyimage.com/300x100/eee/888" alt="placeholder"/>
 
 ## Salisbury Viaduct
 Justo donec enim diam vulputate ut pharetra. Gravida quis blandit turpis cursus in hac habitasse platea. Sed libero enim sed faucibus turpis in eu mi bibendum. Sed vulputate odio ut enim blandit. Id volutpat lacus laoreet non curabitur gravida. Vitae purus faucibus ornare suspendisse sed nisi lacus. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim. Sit amet facilisis magna etiam tempor orci eu lobortis elementum. Sem viverra aliquet eget sit amet tellus cras. Integer enim neque volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi etiam. Elementum tempus egestas sed sed risus. Mauris pharetra et ultrices neque ornare aenean euismod elementum nisi. Urna et pharetra pharetra massa massa ultricies. Mauris sit amet massa vitae tortor. Tempor commodo ullamcorper a lacus.
@@ -151,7 +160,9 @@ The snack company is currently not doing tours due to covid-19 restrictions but 
 ## Kooser State Park
 Urna molestie at elementum eu facilisis sed odio. Nunc lobortis mattis aliquam faucibus purus in massa. Id porta nibh venenatis cras sed felis. Odio eu feugiat pretium nibh ipsum consequat nisl vel. Sit amet consectetur adipiscing elit pellentesque habitant. Magna ac placerat vestibulum lectus mauris. Duis ultricies lacus sed turpis. Magna ac placerat vestibulum lectus mauris ultrices eros. Aenean et tortor at risus viverra adipiscing at in tellus. Eget aliquet nibh praesent tristique magna sit amet. Massa id neque aliquam vestibulum morbi blandit cursus risus.
 
-<img src="https://dummyimage.com/300x100/eee/888" alt="placeholder"/>
+<a href="https://www.dcnr.pa.gov/StateParks/FindAPark/KooserStatePark/Pages/default.aspx">
+<img src="https://live.staticflickr.com/4202/34691882681_0f9bbfc456_m.jpg" alt="Kooser State Park" style="max-width:300px;width:100%;"/>
+</a>
 
 ## Flight 93 Memorial
 Dolor sit amet consectetur adipiscing elit ut. Donec enim diam vulputate ut pharetra. Massa tincidunt dui ut ornare lectus sit amet est placerat. Enim blandit volutpat maecenas volutpat blandit aliquam. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Aliquam id diam maecenas ultricies mi eget. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Accumsan lacus vel facilisis volutpat est. Tellus in metus vulputate eu scelerisque. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Ac auctor augue mauris augue neque gravida in. Odio aenean sed adipiscing diam donec. Sagittis vitae et leo duis ut diam quam nulla porttitor. Bibendum arcu vitae elementum curabitur vitae. Aliquet bibendum enim facilisis gravida neque. Malesuada bibendum arcu vitae elementum curabitur.
@@ -161,12 +172,15 @@ Dolor sit amet consectetur adipiscing elit ut. Donec enim diam vulputate ut phar
 ## Guild of American Papercutters art museum
 Lobortis feugiat vivamus at augue eget arcu dictum varius. Morbi tincidunt ornare massa eget egestas purus viverra accumsan. Urna id volutpat lacus laoreet non. Pellentesque adipiscing commodo elit at imperdiet. Nunc sed augue lacus viverra vitae. Risus ultricies tristique nulla aliquet enim. Etiam tempor orci eu lobortis. Integer enim neque volutpat ac tincidunt vitae semper. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Vitae aliquet nec ullamcorper sit amet. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Orci ac auctor augue mauris. Condimentum id venenatis a condimentum. In fermentum posuere urna nec tincidunt praesent semper. Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo. Vitae ultricies leo integer malesuada nunc vel risus commodo.
 
-<img src="https://dummyimage.com/300x100/eee/888" alt="placeholder"/>
+<a href="https://papercutters.org/connect-with-us/">
+<img src="https://papercutters.org/wp-content/uploads/2020/01/Philip-Dressler-Center-for-the-Arts-National-Museum-Laurel-Arts-bldg-300x208.jpg" alt="Philip Dressler Center" style="max-width:300px;width:100%;"/>
+</a>
 
 ## Fallingwater
 Fallingwater is a legendary house designed by Frank Lloyd Wright for the Kaufmann family. [Tour reservations](https://fallingwater.org/experience-fallingwater/) must be made in advance.
 
-<a href="https://commons.wikimedia.org/wiki/File:Fallingwater,_also_known_as_the_Edgar_J._Kaufmann,_Sr.,_residence,_Pennsylvania,_by_Carol_M._Highsmith.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Fallingwater%2C_also_known_as_the_Edgar_J._Kaufmann%2C_Sr.%2C_residence%2C_Pennsylvania%2C_by_Carol_M._Highsmith.jpg/640px-Fallingwater%2C_also_known_as_the_Edgar_J._Kaufmann%2C_Sr.%2C_residence%2C_Pennsylvania%2C_by_Carol_M._Highsmith.jpg" alt="Fallingwater" style="max-width:400px;width:100%;"/></a>
+<a href="https://commons.wikimedia.org/wiki/File:Fallingwater,_also_known_as_the_Edgar_J._Kaufmann,_Sr.,_residence,_Pennsylvania,_by_Carol_M._Highsmith.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Fallingwater%2C_also_known_as_the_Edgar_J._Kaufmann%2C_Sr.%2C_residence%2C_Pennsylvania%2C_by_Carol_M._Highsmith.jpg/640px-Fallingwater%2C_also_known_as_the_Edgar_J._Kaufmann%2C_Sr.%2C_residence%2C_Pennsylvania%2C_by_Carol_M._Highsmith.jpg" alt="Fallingwater" style="max-width:3
+00px;width:100%;"/></a>
 
 # Links 
 - Visitor Bureaus
