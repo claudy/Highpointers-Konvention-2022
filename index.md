@@ -166,7 +166,7 @@ Lobortis feugiat vivamus at augue eget arcu dictum varius. Morbi tincidunt ornar
 ## Fallingwater
 Fallingwater is a legendary house designed by Frank Lloyd Wright for the Kaufmann family. [Tour reservations](https://fallingwater.org/experience-fallingwater/) must be made in advance.
 
-<img src="https://dummyimage.com/300x100/eee/888" alt="placeholder"/>
+<a href="https://commons.wikimedia.org/wiki/File:Fallingwater,_also_known_as_the_Edgar_J._Kaufmann,_Sr.,_residence,_Pennsylvania,_by_Carol_M._Highsmith.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Fallingwater%2C_also_known_as_the_Edgar_J._Kaufmann%2C_Sr.%2C_residence%2C_Pennsylvania%2C_by_Carol_M._Highsmith.jpg/640px-Fallingwater%2C_also_known_as_the_Edgar_J._Kaufmann%2C_Sr.%2C_residence%2C_Pennsylvania%2C_by_Carol_M._Highsmith.jpg" alt="Fallingwater" style="max-width:400px;width:100%;"/></a>
 
 # Links 
 - Visitor Bureaus
