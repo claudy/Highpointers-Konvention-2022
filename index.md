@@ -97,7 +97,7 @@ These links are for the trailheads and parking:
 Lectus proin nibh nisl condimentum id venenatis a. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla pellentesque. Dui accumsan sit amet nulla facilisi. Nibh ipsum consequat nisl vel pretium lectus quam id. Parturient montes nascetur ridiculus mus mauris. Augue neque gravida in fermentum et sollicitudin ac orci phasellus. Convallis posuere morbi leo urna molestie at elementum eu facilisis. Nulla pharetra diam sit amet nisl. Mi ipsum faucibus vitae aliquet nec ullamcorper sit amet risus. Ut eu sem integer vitae justo eget. Morbi tempus iaculis urna id. Non curabitur gravida arcu ac tortor dignissim. Tincidunt augue interdum velit euismod in pellentesque. Commodo elit at imperdiet dui accumsan sit. Volutpat maecenas volutpat blandit aliquam etiam erat. Sociis natoque penatibus et magnis dis parturient.
 
 ## Nearby RV campgrounds
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Pictograms-nps-rv_campground-2.svg" style="max-width:50px;width:100%;filter: invert(100%) sepia(100%) brightness(50%) hue-rotate(146deg)" alt="RV icon" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Pictograms-nps-rv_campground-2.svg" style="max-width:50px;width:100%;filter:  sepia(20%) invert(100%) contrast(100%) brightness(53%) hue-rotate(120deg) contrast(100%)" alt="RV icon" />
 
 [Lost Mountain Campground](http://www.lostmountaincampground.com/about.html)
 
@@ -109,7 +109,7 @@ Lectus proin nibh nisl condimentum id venenatis a. Suspendisse ultrices gravida 
 
 
 ## Nearby Tent campgrounds
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Noun_camp_2695642.svg" style="max-width:50px;width:100%;filter: invert(100%) sepia(100%) brightness(60%) hue-rotate(146deg)" alt="Tent icon" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Noun_camp_2695642.svg" style="max-width:50px;width:100%;filter: invert(100%) brightness(70%) hue-rotate(446deg) contrast(40%)" alt="Tent icon" />
 
 [Laural Hill State Park](https://pennsylvaniastateparks.reserveamerica.com/camping/laurel-hill-state-park/r/campgroundDetails.do?contractCode=PA&parkId=880207)
 
@@ -122,7 +122,7 @@ Scottyland also has a cabin.
 
 
 # Attractions
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Noun_Camping_2695678.svg" style="max-width:50px;width:100%;filter: invert(100%) sepia(100%) brightness(60%) hue-rotate(146deg)" alt="Tent icon" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Noun_Camping_2695678.svg" style="max-width:50px;width:100%;filter: invert(100%) brightness(55%) hue-rotate(146deg)" alt="Tent icon" />
 
 There is much to see in the region.  This list can help you start planning your exploration. The list is not exhaustive nor in any specific order.
 
