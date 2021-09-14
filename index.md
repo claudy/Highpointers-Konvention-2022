@@ -147,7 +147,7 @@ Bike rentals are available at the [Confluence Cyclery](https://www.confluencecyc
 
 
 ## Salisbury Viaduct
-Justo donec enim diam vulputate ut pharetra. Gravida quis blandit turpis cursus in hac habitasse platea. Sed libero enim sed faucibus turpis in eu mi bibendum. Sed vulputate odio ut enim blandit. Id volutpat lacus laoreet non curabitur gravida. Vitae purus faucibus ornare suspendisse sed nisi lacus. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim. Sit amet facilisis magna etiam tempor orci eu lobortis elementum. Sem viverra aliquet eget sit amet tellus cras. Integer enim neque volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi etiam. Elementum tempus egestas sed sed risus. Mauris pharetra et ultrices neque ornare aenean euismod elementum nisi. Urna et pharetra pharetra massa massa ultricies. Mauris sit amet massa vitae tortor. Tempor commodo ullamcorper a lacus.
+The Salisbury Viaduct is a long bridge on the Greater Allegheny Passage that crosses over US Highway 219, CSX railroad tracks, and the Casselman River Valley. Hike or Bike across it. There are benches at both ends of the viaduct. The view is beautiful view. The maximum hieght is 101 feet above the ground. It is an excellent place to watch sunrises and sunsets. Historical placards tell the history of the bridge and have pictures of it being constructed. Train traffic on the Salisbury Viaduct stopped in 1975. 
 
 <a href="https://commons.wikimedia.org/wiki/File:Elevation_of_the_Salisbury_Viaduct,_Railway_Age_Gazette,_1911.png"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Elevation_of_the_Salisbury_Viaduct%2C_Railway_Age_Gazette%2C_1911.png" alt="Salsbury Viaduct" style="max-width:1400px;width:100%;"/></a>
 
