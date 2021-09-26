@@ -31,8 +31,8 @@ TBA
 | [Allegheny County Airport](https://flypittsburgh.com/allegheny-county-airport/) | 51 miles  | AGC |
 | [Somerset County Airport](http://www.co.somerset.pa.us/airport/runwayinfo.htm)  | 20 miles  | 2G9 |
 | [John Murtha Johnstown Airport](https://flyjst.com/)    | 45 miles  | JST |
-| [Morgantown Municipal Airport](https://www.morgantownairport.com/)| 57 miles | MGW |
-| [Joseph A. Hardy Connellsville Airport](http://connellsvilleairport.com/) | 26 miles | VVS |
+| [Morgantown Municipal Airport](https://www.morgantownairport.com/) | 57 miles  | MGW |
+| [Joseph A. Hardy Connellsville Airport](http://connellsvilleairport.com/) | 26 miles  | VVS |
 
 Taxis and ride sharing are common in Pittsburgh - Uber, Lyft, ZTrip, etc. However Laurel Highlands is far enough away from Pittsburgh you should consider a rental car if you choose to fly.
 
