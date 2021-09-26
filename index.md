@@ -1,48 +1,49 @@
 <img style="float: right; overflow: auto;" height="100" width="100" src="./highpointers-logo-CO.jpg">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ante metus dictum at tempor commodo ullamcorper a. Consequat interdum varius sit amet mattis. Aliquet nibh praesent tristique magna sit amet purus. Nibh sed pulvinar proin gravida hendrerit lectus. Faucibus turpis in eu mi bibendum neque egestas congue quisque. Tempor commodo ullamcorper a lacus vestibulum sed arcu non. Commodo nulla facilisi nullam vehicula. Mattis aliquam faucibus purus in massa. Praesent tristique magna sit amet purus gravida quis blandit. Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Vitae tempus quam pellentesque nec nam aliquam. Tellus integer feugiat scelerisque varius morbi enim nunc. Eget mauris pharetra et ultrices neque ornare aenean. Viverra vitae congue eu consequat ac felis donec.
+The scenic Laurel Highlands region of Pennsylvania will host the 2022 Highpoints Convention. The region is home to an abundance of outdoor activities, historic sites, and points of interest, which will provide exciting day-trip options. Home-base for lodging and conference proceedings will be the [Seven Springs Mountain Resort](https://www.7springs.com). On-property hiking and biking trails are available along with a variety of recreational activities.
+
 
 
 -----------
 
 | Details | | | 
 |:---------|:----------|:------|
-| Where | TBA | | |
-| When  | TBA | | |
+| Where | [Seven Springs Mountain Resort](https://www.7springs.com) | | |
+| When  | June 23-26, 2022 | | |
 | Registration | TBA | | |
-| Lodging | TBA | | |
 
 
-# Registration
-Integer eget aliquet nibh praesent tristique magna sit amet. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Elementum integer enim neque volutpat ac tincidunt vitae. Senectus et netus et malesuada fames. Consequat ac felis donec et odio. Pellentesque id nibh tortor id aliquet lectus proin nibh. Varius morbi enim nunc faucibus a. Aliquam malesuada bibendum arcu vitae. Augue eget arcu dictum varius. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh sed. Amet purus gravida quis blandit turpis. Blandit cursus risus at ultrices mi tempus imperdiet nulla malesuada. Aenean pharetra magna ac placerat vestibulum. Augue eget arcu dictum varius. Tristique risus nec feugiat in fermentum posuere urna nec tincidunt. Sodales ut etiam sit amet. Maecenas ultricies mi eget mauris pharetra. Porttitor massa id neque aliquam. Sed arcu non odio euismod lacinia at.
+## Registration
+TBA
 
-Dolor morbi non arcu risus quis varius quam. Rutrum quisque non tellus orci ac. Consectetur adipiscing elit duis tristique sollicitudin nibh. Neque volutpat ac tincidunt vitae. Tempor nec feugiat nisl pretium fusce id velit ut tortor. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Auctor eu augue ut lectus arcu. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc consequat. Tincidunt lobortis feugiat vivamus at augue. Odio facilisis mauris sit amet massa vitae tortor condimentum. Imperdiet proin fermentum leo vel. Volutpat diam ut venenatis tellus in. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue eget. Tincidunt ornare massa eget egestas. Nunc vel risus commodo viverra maecenas accumsan. Amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus et. Cras semper auctor neque vitae tempus quam pellentesque nec nam. 
+## Fee
+TBA
 
-## Registration fees
-Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac.
-
+## Schedule
+TBA
 
 # Nearby
 ## Nearby Airports
-Taxis and ride sharing are common in Pittsburgh - Uber, Lyft, ZTrip, etc.
-
 | Airport | Distance | Code |
 |:--------|:----------|:------|
-| [Pittsburgh International](https://flypittsburgh.com/) | TBA  | PIT |
-| [Arnold Palmer Latrobe](https://www.latrobe-airport.com/) | TBA  | LBE |
-| [Allegheny County Airport](https://flypittsburgh.com/allegheny-county-airport/) | TBA  | AGC |
-| [Somerset County Airport](http://www.co.somerset.pa.us/airport/runwayinfo.htm)  | TBA  | 2G9 |
-| [John Murtha Johnstown](https://flyjst.com/)    | TBA  | JST |
-| [Morgantown Municipal Airport](https://www.morgantownairport.com/)| TBA | MGW |
+| [Pittsburgh International Airport](https://flypittsburgh.com/) | 78 miles  | PIT |
+| [Arnold Palmer Latrobe Airport](https://www.latrobe-airport.com/) | 25 miles  | LBE |
+| [Allegheny County Airport](https://flypittsburgh.com/allegheny-county-airport/) | 51 miles  | AGC |
+| [Somerset County Airport](http://www.co.somerset.pa.us/airport/runwayinfo.htm)  | 20 miles  | 2G9 |
+| [John Murtha Johnstown Airport](https://flyjst.com/)    | 45 miles  | JST |
+| [Morgantown Municipal Airport](https://www.morgantownairport.com/)| 57 miles | MGW |
+| [Joseph A. Hardy Connellsville Airport](http://connellsvilleairport.com/) | 26 miles | VVS
+
+Taxis and ride sharing are common in Pittsburgh - Uber, Lyft, ZTrip, etc. However Laurel Highlands is far enough away from Pittsburgh you should consider a rental car if you choose to fly.
 
 ## Nearby Train Stations
-The Amtrak route Captiol Limited does two trips a day. It is ideal for those who want less driving and more relaxing.
+The Amtrak route Capitol Limited does two trips a day. It is ideal for those who want less driving and more relaxing.
 
 | Train Station | Distance | Address |
 |:---------|:----------|:----------|
-| Connellsville | TBA | North Water Street &, W Peach St, Connellsville, PA 15425 |
-| Pittsburgh    | TBA | 1100 Liberty Ave, Pittsburgh, PA 15222
-| Cumberland    | TBA | 201 E Harrison St, Cumberland, MD 21502
+| Connellsville | 21 miles | North Water Street &, W Peach St, Connellsville, PA 15425 |
+| Pittsburgh    | 61 miles | 1100 Liberty Ave, Pittsburgh, PA 15222
+| Cumberland    | 49 miles | 201 E Harrison St, Cumberland, MD 21502
 
 
 ## Nearby Hospitals
@@ -52,7 +53,7 @@ The Amtrak route Captiol Limited does two trips a day. It is ideal for those who
 |:---------|:----------|:----------|
 | Venue |[UPMC Somerset](https://www.somersethospital.com/)| 225 South Center Avenue, Somerset, PA 15501 |
 | Venue |[Highlands Hospital](https://www.highlandshospital.org/)| 401 E Murphy Ave, Connellsville, PA 15425|
-| Venue |[Excela Health Westmoreland Hospital](https://www.excelahealth.org/documents/content/Westmoreland-Map-11-16.pdf)| 532 W Pittsburgh St, Greensburg, PA 15601 | 
+| Venue |[Excela Health Westmorland Hospital](https://www.excelahealth.org/documents/content/Westmoreland-Map-11-16.pdf)| 532 W Pittsburgh St, Greensburg, PA 15601 | 
 | Venue |[AHN Hempfield Neighborhood Hospital](https://www.ahnneighborhood.org/locations/hempfield/)| 6321 US-30, Greensburg, PA 15601 |
 | Mount Davis |[Conemaugh Meyersdale Medical Center](https://www.conemaugh.org/patients-and-visitors/about-conemaugh/locations/conemaugh-meyersdale-medical-center)| 200 Hospital Drive, Meyersdale, PA 15552 |
 | Backbone Mountain |[Garrett Regional Medical Center](https://www.grmc-wvumedicine.org/)| 251 N 4th St, Oakland, MD 21550 |
@@ -64,7 +65,7 @@ The Amtrak route Captiol Limited does two trips a day. It is ideal for those who
 These links are for the trailheads and parking:
 
 ### [Mount Davis](https://goo.gl/maps/AeG4EXsmWeRRkCQh6)
-- [Parking Lot and picnic area "CCC Site 97"](https://goo.gl/maps/AeG4EXsmWeRRkCQh6) Toliets and a picnic pavilion available.  1.2 mile hike to the highpoint.
+- [Parking Lot and picnic area "CCC Site 97"](https://goo.gl/maps/AeG4EXsmWeRRkCQh6) Toilets and a picnic pavilion available.  1.2 mile hike to the highpoint.
 
     Lat, Lon = 39.79437349949034, -79.16627153055333
 
@@ -124,7 +125,7 @@ Scottyland also has a cabin.
 # Attractions
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Noun_Camping_2695678.svg" style="max-width:50px;width:100%;filter: invert(100%) brightness(55%) hue-rotate(146deg)" alt="Tent icon" />
 
-There is much to see in the region.  This list can help you start planning your exploration. The list is not exhaustive nor in any specific order.
+There is much to see in the Laurel Highlands region.  This list can help you start planning your exploration. The list is not exhaustive nor in any specific order. Please also visit [LaurelHighlands.org](https://www.laurelhighlands.org) for more information and ideas for daytrips.
 
 ## Laurel Ridge State Park
 Vivamus arcu felis bibendum ut tristique. Phasellus vestibulum lorem sed risus ultricies tristique. Etiam erat velit scelerisque in dictum. Donec massa sapien faucibus et molestie ac feugiat sed. Suspendisse potenti nullam ac tortor. Faucibus turpis in eu mi bibendum neque egestas congue. Cras adipiscing enim eu turpis egestas. Amet nisl suscipit adipiscing bibendum est ultricies integer quis auctor. Varius morbi enim nunc faucibus a pellentesque sit amet porttitor. 
