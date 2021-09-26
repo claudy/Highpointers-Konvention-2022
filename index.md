@@ -24,6 +24,7 @@ TBA
 
 # Nearby
 ## Nearby Airports
+
 | Airport                               | Distance | Code |
 |---------------------------------------|----------|------|
 | [Pittsburgh International Airport](https://flypittsburgh.com/)      | 78 miles | PIT  |
