@@ -8,7 +8,7 @@ The scenic Laurel Highlands region of Pennsylvania will host the 2022 Highpoints
 
 | Details | | | 
 |:---------|:----------|:------|
-| Where | [Seven Springs Mountain Resort](https://www.7springs.com) | 777 Water Wheel Dr, Champion, PA 15622  ([Map](https://goo.gl/maps/qVyLmZVKZUYURZ2d6))
+| Where | [Seven Springs Mountain Resort](https://www.7springs.com) | 777 Water Wheel Dr<br> Champion, PA 15622<br>_[Google Maps](https://goo.gl/maps/qVyLmZVKZUYURZ2d6)_
 | When  | June 23-26, 2022 |
 | Registration | TBA |
 
