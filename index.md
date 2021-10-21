@@ -184,9 +184,19 @@ Fallingwater is a legendary house designed by Frank Lloyd Wright for the Kaufman
 <a href="https://commons.wikimedia.org/wiki/File:Fallingwater,_also_known_as_the_Edgar_J._Kaufmann,_Sr.,_residence,_Pennsylvania,_by_Carol_M._Highsmith.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Fallingwater%2C_also_known_as_the_Edgar_J._Kaufmann%2C_Sr.%2C_residence%2C_Pennsylvania%2C_by_Carol_M._Highsmith.jpg/640px-Fallingwater%2C_also_known_as_the_Edgar_J._Kaufmann%2C_Sr.%2C_residence%2C_Pennsylvania%2C_by_Carol_M._Highsmith.jpg" alt="Fallingwater" style="max-width:3
 00px;width:100%;"/></a>
 
+# Funicular Railways 
+Funiculars are train-like vehicles pulled by cables up and down a steep hill, counter-balanced by the weight of the other car.
+- [Duquesne Incline](https://en.wikipedia.org/wiki/Duquesne_Incline)
+- [Monongahela Incline](https://en.wikipedia.org/wiki/Monongahela_Incline)
+- [Johnstown Inclined Plane](https://en.wikipedia.org/wiki/Johnstown_Inclined_Plane)
+- The funicular at the Horseshoe Curve is unavailable due to maintenance upgrades.
+
+# Johnstown Flood
+The [Johnstown Flood Muesum](https://www.jaha.org/attractions/johnstown-flood-museum/) and the [Johnstown Flood National Memorial](https://www.nps.gov/jofl/index.htm) explain in detail the great tragedy of 1889.
+
 # Links 
-- Visitor Bureaus
-- Visitor Bureaus
+- [Somerset County Tourism Guide](https://somersetcountychamber.com/tourism/)
+- [Johnstown Visitor Center](https://www.visitjohnstownpa.com/)
 - [Pittsburgh Visitors' Guide](https://www.visitpittsburgh.com/plan-your-trip/visitors-guide/)
 
 
