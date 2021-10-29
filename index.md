@@ -96,10 +96,12 @@ These links are for the trailheads and parking:
 
 # Overnight accommodations 
 ## Block rooms
-Lectus proin nibh nisl condimentum id venenatis a. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla pellentesque. Dui accumsan sit amet nulla facilisi. Nibh ipsum consequat nisl vel pretium lectus quam id. Parturient montes nascetur ridiculus mus mauris. Augue neque gravida in fermentum et sollicitudin ac orci phasellus. Convallis posuere morbi leo urna molestie at elementum eu facilisis. Nulla pharetra diam sit amet nisl. Mi ipsum faucibus vitae aliquet nec ullamcorper sit amet risus. Ut eu sem integer vitae justo eget. Morbi tempus iaculis urna id. Non curabitur gravida arcu ac tortor dignissim. Tincidunt augue interdum velit euismod in pellentesque. Commodo elit at imperdiet dui accumsan sit. Volutpat maecenas volutpat blandit aliquam etiam erat. Sociis natoque penatibus et magnis dis parturient.
+TBA
 
 ## Nearby RV campgrounds
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Pictograms-nps-rv_campground-2.svg" style="max-width:50px;width:100%;filter:  sepia(20%) invert(100%) contrast(100%) brightness(53%) hue-rotate(120deg) contrast(100%)" alt="RV icon" />
+
+[Kooser State Park](https://pennsylvaniastateparks.reserveamerica.com/camping/kooser-state-park/r/campgroundDetails.do?contractCode=PA&parkId=880206)
 
 [Lost Mountain Campground](http://www.lostmountaincampground.com/about.html)
 
@@ -113,7 +115,9 @@ Lectus proin nibh nisl condimentum id venenatis a. Suspendisse ultrices gravida 
 ## Nearby Tent campgrounds
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Noun_camp_2695642.svg" style="max-width:50px;width:100%;filter: invert(100%) brightness(70%) hue-rotate(446deg) contrast(40%)" alt="Tent icon" />
 
-[Laural Hill State Park](https://pennsylvaniastateparks.reserveamerica.com/camping/laurel-hill-state-park/r/campgroundDetails.do?contractCode=PA&parkId=880207)
+[Kooser State Park](https://pennsylvaniastateparks.reserveamerica.com/camping/kooser-state-park/r/campsiteSearch.do?search=site&page=siteresult&contractCode=PA&parkId=880206)
+
+[Laurel Hill State Park](https://pennsylvaniastateparks.reserveamerica.com/camping/laurel-hill-state-park/r/campgroundDetails.do?contractCode=PA&parkId=880207)
 
 [Lost Mountain Campground](http://www.lostmountaincampground.com/about.html)
 
@@ -129,14 +133,14 @@ Scottyland also has a cabin.
 There is much to see in the Laurel Highlands region.  This list can help you start planning your exploration. The list is not exhaustive nor in any specific order. Please also visit [LaurelHighlands.org](https://www.laurelhighlands.org) for more information and ideas for daytrips.
 
 ## Laurel Ridge State Park
-Vivamus arcu felis bibendum ut tristique. Phasellus vestibulum lorem sed risus ultricies tristique. Etiam erat velit scelerisque in dictum. Donec massa sapien faucibus et molestie ac feugiat sed. Suspendisse potenti nullam ac tortor. Faucibus turpis in eu mi bibendum neque egestas congue. Cras adipiscing enim eu turpis egestas. Amet nisl suscipit adipiscing bibendum est ultricies integer quis auctor. Varius morbi enim nunc faucibus a pellentesque sit amet porttitor. 
+<--TODO: write here
 
 ### Laurel Highlands Hiking Trail
-Condimentum id venenatis a condimentum vitae sapien. Pharetra massa massa ultricies mi quis. Sit amet volutpat consequat mauris nunc congue nisi. 
+70 miles long. Rugged and steep in some places. Great for dayhiking and also supports multiple day hikes. Overnight trail shelters require reservation in advance. More details and high-resolution trail map can be found on the [PA Dept of Conservation and Natural Resources website](https://www.dcnr.pa.gov/Recreation/WhatToDo/Hiking/LaurelHighlandsHikingTrail/Pages/default.aspx). Expect to see some mountain laurel blooming in June. [GoLauralHighlands.com](https://www.golaurelhighlands.com/blog/post/where-to-see-mountain-laurel-in-the-laurel-highlands/) says the Route 30 trailhead outside of Ligonier is a good location to see it.
 
 ### Hemlock Trail Natural Area
 
-Hike 1.2 miles through Old Growth forest in the Laural Hill State Park. More information on the [Old-Growth Forest Network website](https://www.oldgrowthforest.net/pa-hemlock-trail-laurel-hill-state-park), which has a [map](https://www.oldgrowthforest.net/network-forests) for finding other old growth forests.
+Hike 1.2 miles through Old Growth forest in the Laurel Hill State Park. More information on the [Old-Growth Forest Network website](https://www.oldgrowthforest.net/pa-hemlock-trail-laurel-hill-state-park), which has a [map](https://www.oldgrowthforest.net/network-forests) for finding other old growth forests.
 <a href="https://www.oldgrowthforest.net/pa-hemlock-trail-laurel-hill-state-park">
 <img src="https://images.squarespace-cdn.com/content/v1/5c087e9e4cde7a66033e482d/1562704284255-I87K795NIFP9F24DK567/thumb_IMG_4175_1024.jpg?format=600w" alt="placeholder"/>
 </a>
@@ -153,14 +157,8 @@ The Salisbury Viaduct is a long bridge on the Greater Allegheny Passage that cro
 
 <a href="https://commons.wikimedia.org/wiki/File:Elevation_of_the_Salisbury_Viaduct,_Railway_Age_Gazette,_1911.png"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Elevation_of_the_Salisbury_Viaduct%2C_Railway_Age_Gazette%2C_1911.png" alt="Salsbury Viaduct" style="max-width:1400px;width:100%;"/></a>
 
-
-## Snyder of Berlin PA 
-The snack company is currently not doing tours due to covid-19 restrictions but might in the future. Call to inquire.
-
-<img src="https://dummyimage.com/300x100/eee/888" alt="placeholder"/>
-
 ## Kooser State Park
-Urna molestie at elementum eu facilisis sed odio. Nunc lobortis mattis aliquam faucibus purus in massa. Id porta nibh venenatis cras sed felis. Odio eu feugiat pretium nibh ipsum consequat nisl vel. Sit amet consectetur adipiscing elit pellentesque habitant. Magna ac placerat vestibulum lectus mauris. Duis ultricies lacus sed turpis. Magna ac placerat vestibulum lectus mauris ultrices eros. Aenean et tortor at risus viverra adipiscing at in tellus. Eget aliquet nibh praesent tristique magna sit amet. Massa id neque aliquam vestibulum morbi blandit cursus risus.
+Originally land of the United Lumber Company, Pennsylvania bought the land when the company went bankrupt. The park and public camp was started in 1925 and was popular with motorists. Today the park has both rustic and modern cabins for [reservation](https://pennsylvaniastateparks.reserveamerica.com/camping/kooser-state-park/r/campgroundDetails.do?contractCode=PA&parkId=880206) as well as RV sites.
 
 <a href="https://www.dcnr.pa.gov/StateParks/FindAPark/KooserStatePark/Pages/default.aspx">
 <img src="https://live.staticflickr.com/4202/34691882681_0f9bbfc456_m.jpg" alt="Kooser State Park" style="max-width:300px;width:100%;"/>
@@ -171,8 +169,8 @@ Flight 93 was one of the flights hijacked during the September 11, 2001 attacks.
 
 <a href="https://commons.wikimedia.org/wiki/File:A_tour_of_the_Flight_93_National_Memorial_-_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/A_tour_of_the_Flight_93_National_Memorial_-_01.jpg/640px-A_tour_of_the_Flight_93_National_Memorial_-_01.jpg" alt="Flight 93 National Memorial" style="max-width:320px;width:100%;"/></a>
 
-## Guild of American Papercutters art museum
-Lobortis feugiat vivamus at augue eget arcu dictum varius. Morbi tincidunt ornare massa eget egestas purus viverra accumsan. Urna id volutpat lacus laoreet non. Pellentesque adipiscing commodo elit at imperdiet. Nunc sed augue lacus viverra vitae. Risus ultricies tristique nulla aliquet enim. Etiam tempor orci eu lobortis. Integer enim neque volutpat ac tincidunt vitae semper. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Vitae aliquet nec ullamcorper sit amet. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Orci ac auctor augue mauris. Condimentum id venenatis a condimentum. In fermentum posuere urna nec tincidunt praesent semper. Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo. Vitae ultricies leo integer malesuada nunc vel risus commodo.
+## Guild of American Papercutters Art Museum
+This is the first American museum devoted to the art of papercutting. The [museum](https://papercutters.org/connect-with-us/) has a permanent collection of papercuts and annual themed special exhibitions. There are some pictures on the guild's website of the [works in their collection](https://papercutters.org/the-mcdaniel-papercut-collection/) and members' works too.
 
 <a href="https://papercutters.org/connect-with-us/">
 <img src="https://papercutters.org/wp-content/uploads/2020/01/Philip-Dressler-Center-for-the-Arts-National-Museum-Laurel-Arts-bldg-300x208.jpg" alt="Philip Dressler Center" style="max-width:300px;width:100%;"/>
@@ -198,11 +196,8 @@ The [Johnstown Flood Muesum](https://www.jaha.org/attractions/johnstown-flood-mu
 - [Somerset County Tourism Guide](https://somersetcountychamber.com/tourism/)
 - [Johnstown Visitor Center](https://www.visitjohnstownpa.com/)
 - [Pittsburgh Visitors' Guide](https://www.visitpittsburgh.com/plan-your-trip/visitors-guide/)
-
+- [Highpointers.org](https://www.highpointers.org)
 
 <img src="https://dummyimage.com/400x300/eee/888" alt="placeholder"/>
 
-# Contact us
-Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Risus in hendrerit gravida rutrum quisque non tellus orci. Purus sit amet volutpat consequat mauris nunc. Consectetur a erat nam at lectus urna duis. Cras tincidunt lobortis feugiat vivamus at. Sed sed risus pretium quam. Sed vulputate odio ut enim. Magna ac placerat vestibulum lectus mauris ultrices. Nulla facilisi morbi tempus iaculis. Urna duis convallis convallis tellus id interdum velit. Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Venenatis cras sed felis eget velit aliquet. Amet facilisis magna etiam tempor orci. Lorem ipsum dolor sit amet consectetur adipiscing elit.
 
-[Highpointers.org](https://www.highpointers.org)
