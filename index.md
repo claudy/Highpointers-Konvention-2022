@@ -103,6 +103,8 @@ TBA
 
 [Kooser State Park](https://pennsylvaniastateparks.reserveamerica.com/camping/kooser-state-park/r/campgroundDetails.do?contractCode=PA&parkId=880206)
 
+[Laurel Hill State Park](https://pennsylvaniastateparks.reserveamerica.com/camping/laurel-hill-state-park/r/campgroundDetails.do?contractCode=PA&parkId=880207)
+
 [Lost Mountain Campground](http://www.lostmountaincampground.com/about.html)
 
 [Pioneer Park Campground](https://www.pioneerparkcampground.com/)
@@ -132,14 +134,10 @@ Scottyland also has a cabin.
 
 There is much to see in the Laurel Highlands region.  This list can help you start planning your exploration. The list is not exhaustive nor in any specific order. Please also visit [LaurelHighlands.org](https://www.laurelhighlands.org) for more information and ideas for daytrips.
 
-## Laurel Ridge State Park
-<--TODO: write here
-
-### Laurel Highlands Hiking Trail
+## Laurel Highlands Hiking Trail
 70 miles long. Rugged and steep in some places. Great for dayhiking and also supports multiple day hikes. Overnight trail shelters require reservation in advance. More details and high-resolution trail map can be found on the [PA Dept of Conservation and Natural Resources website](https://www.dcnr.pa.gov/Recreation/WhatToDo/Hiking/LaurelHighlandsHikingTrail/Pages/default.aspx). Expect to see some mountain laurel blooming in June. [GoLauralHighlands.com](https://www.golaurelhighlands.com/blog/post/where-to-see-mountain-laurel-in-the-laurel-highlands/) says the Route 30 trailhead outside of Ligonier is a good location to see it.
 
-### Hemlock Trail Natural Area
-
+## Hemlock Trail Natural Area
 Hike 1.2 miles through Old Growth forest in the Laurel Hill State Park. More information on the [Old-Growth Forest Network website](https://www.oldgrowthforest.net/pa-hemlock-trail-laurel-hill-state-park), which has a [map](https://www.oldgrowthforest.net/network-forests) for finding other old growth forests.
 <a href="https://www.oldgrowthforest.net/pa-hemlock-trail-laurel-hill-state-park">
 <img src="https://images.squarespace-cdn.com/content/v1/5c087e9e4cde7a66033e482d/1562704284255-I87K795NIFP9F24DK567/thumb_IMG_4175_1024.jpg?format=600w" alt="placeholder"/>
@@ -182,15 +180,22 @@ Fallingwater is a legendary house designed by Frank Lloyd Wright for the Kaufman
 <a href="https://commons.wikimedia.org/wiki/File:Fallingwater,_also_known_as_the_Edgar_J._Kaufmann,_Sr.,_residence,_Pennsylvania,_by_Carol_M._Highsmith.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Fallingwater%2C_also_known_as_the_Edgar_J._Kaufmann%2C_Sr.%2C_residence%2C_Pennsylvania%2C_by_Carol_M._Highsmith.jpg/640px-Fallingwater%2C_also_known_as_the_Edgar_J._Kaufmann%2C_Sr.%2C_residence%2C_Pennsylvania%2C_by_Carol_M._Highsmith.jpg" alt="Fallingwater" style="max-width:3
 00px;width:100%;"/></a>
 
-# Funicular Railways 
+## Funicular Railways 
 Funiculars are train-like vehicles pulled by cables up and down a steep hill, counter-balanced by the weight of the other car.
 - [Duquesne Incline](https://en.wikipedia.org/wiki/Duquesne_Incline)
 - [Monongahela Incline](https://en.wikipedia.org/wiki/Monongahela_Incline)
 - [Johnstown Inclined Plane](https://en.wikipedia.org/wiki/Johnstown_Inclined_Plane)
 - The funicular at the Horseshoe Curve is unavailable due to maintenance upgrades.
 
-# Johnstown Flood
+## Johnstown Flood
 The [Johnstown Flood Muesum](https://www.jaha.org/attractions/johnstown-flood-museum/) and the [Johnstown Flood National Memorial](https://www.nps.gov/jofl/index.htm) explain in detail the great tragedy of 1889.
+
+## Fort Necessity National Battlefield
+See the battlefield where the British regulars and colonial forces under the command of George Washington fought and honorably surrendered to the French and Indians in 1754. The fort has been reconstructed with white oak, as found by archeologic studying of the site. There is a handicapped accessible walking path from the parking lot to the fort. The park is one mile away from the grave of General Edward Braddock, who was commander-in-chief of the British Army at the start of the French and Indian war.
+
+[Introductory video](https://www.nps.gov/media/video/view.htm?id=12C48698-374F-4051-B6EF-BDEF40567B0B)
+<iframe src="https://www.nps.gov/media/video/embed.htm?id=12C48698-374F-4051-B6EF-BDEF40567B0B" width="320" height="204" frameborder="0" scrolling="auto" allowfullscreen></iframe>
+
 
 # Links 
 - [Somerset County Tourism Guide](https://somersetcountychamber.com/tourism/)
