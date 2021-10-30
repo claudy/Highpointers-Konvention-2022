@@ -191,10 +191,7 @@ Funiculars are train-like vehicles pulled by cables up and down a steep hill, co
 The [Johnstown Flood Muesum](https://www.jaha.org/attractions/johnstown-flood-museum/) and the [Johnstown Flood National Memorial](https://www.nps.gov/jofl/index.htm) explain in detail the great tragedy of 1889.
 
 ## Fort Necessity National Battlefield
-See the battlefield where the British regulars and colonial forces under the command of George Washington fought and honorably surrendered to the French and Indians in 1754. The fort has been reconstructed with white oak, as found by archeologic studying of the site. There is a handicapped accessible walking path from the parking lot to the fort. The park is one mile away from the grave of General Edward Braddock, who was commander-in-chief of the British Army at the start of the French and Indian war.
-
-[Introductory video](https://www.nps.gov/media/video/view.htm?id=12C48698-374F-4051-B6EF-BDEF40567B0B)
-<iframe src="https://www.nps.gov/media/video/embed.htm?id=12C48698-374F-4051-B6EF-BDEF40567B0B" width="320" height="204" frameborder="0" scrolling="auto" allowfullscreen></iframe>
+See the battlefield where the British regulars and colonial forces under the command of George Washington fought and honorably surrendered to the French and Indians in 1754. The fort has been reconstructed with white oak, as found by archeologic studying of the site. There is a handicapped accessible walking path from the parking lot to the fort. The park is one mile away from the grave of General Edward Braddock, who was commander-in-chief of the British Army at the start of the French and Indian war. Watch this [introductory video from National Park Service](https://www.nps.gov/media/video/view.htm?id=12C48698-374F-4051-B6EF-BDEF40567B0B) to learn more.
 
 
 # Links 
