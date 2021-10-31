@@ -9,7 +9,7 @@ The scenic Laurel Highlands region of Pennsylvania will host the 2022 Highpoints
 | Details | | | 
 |:---------|:----------|:------|
 | Where | [Seven Springs Mountain Resort](https://www.7springs.com) | 777 Water Wheel Dr<br> Champion, PA 15622<br>_[Google Maps](https://goo.gl/maps/qVyLmZVKZUYURZ2d6)_
-| When  | June 23-26, 2022 |
+| When  | June 23-26, 2022 | Thursday evening to Sunday morning
 | Registration | TBA |
 
 
@@ -17,7 +17,7 @@ The scenic Laurel Highlands region of Pennsylvania will host the 2022 Highpoints
 TBA
 
 ## Fee
-TBA
+$95 for adults, $70 for children ages 5-12, free for children under age of 5.
 
 ## Schedule
 TBA
@@ -198,8 +198,11 @@ See the battlefield where the British regulars and colonial forces under the com
 - [Somerset County Tourism Guide](https://somersetcountychamber.com/tourism/)
 - [Johnstown Visitor Center](https://www.visitjohnstownpa.com/)
 - [Pittsburgh Visitors' Guide](https://www.visitpittsburgh.com/plan-your-trip/visitors-guide/)
+- [Seven Springs Mountain Resort](https://www.7springs.com)
 - [Highpointers.org](https://www.highpointers.org)
 
+<!--
 <img src="https://dummyimage.com/400x300/eee/888" alt="placeholder"/>
+-->
 
 
