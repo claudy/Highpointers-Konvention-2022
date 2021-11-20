@@ -203,7 +203,7 @@ See the battlefield where the British regulars and colonial forces under the com
 - [test1](a.md)
 - [test2](./a.md)
 - [test3](./This%20is%20a%20test.pdf)
-- [test4](https://www.highpointerskonvention2022.org/This%20is%20a%20test.pdf)
+- [test4](https://www.highpointerskonvention2022.com/This%20is%20a%20test.pdf)
 <!--
 <img src="https://dummyimage.com/400x300/eee/888" alt="placeholder"/>
 -->
