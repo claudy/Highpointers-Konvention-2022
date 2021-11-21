@@ -19,8 +19,7 @@ TBA
 ## Fee
 $95 for adults, $70 for children ages 5-12, free for children under age of 5.
 
-## Schedule
-TBA
+## [Schedule](schedule.md)
 
 # Nearby
 ## Nearby Airports
@@ -188,7 +187,7 @@ Funiculars are train-like vehicles pulled by cables up and down a steep hill, co
 - The funicular at the Horseshoe Curve is unavailable due to maintenance upgrades.
 
 ## Johnstown Flood
-The [Johnstown Flood Muesum](https://www.jaha.org/attractions/johnstown-flood-museum/) and the [Johnstown Flood National Memorial](https://www.nps.gov/jofl/index.htm) explain in detail the great tragedy of 1889.
+The [Johnstown Flood Museum](https://www.jaha.org/attractions/johnstown-flood-museum/) and the [Johnstown Flood National Memorial](https://www.nps.gov/jofl/index.htm) explain in detail the great tragedy of 1889.
 
 ## Fort Necessity National Battlefield
 See the battlefield where the British regulars and colonial forces under the command of George Washington fought and honorably surrendered to the French and Indians in 1754. The fort has been reconstructed with white oak, as found by archeologic studying of the site. There is a handicapped accessible walking path from the parking lot to the fort. The park is one mile away from the grave of General Edward Braddock, who was commander-in-chief of the British Army at the start of the French and Indian war. Watch this [introductory video from National Park Service](https://www.nps.gov/media/video/view.htm?id=12C48698-374F-4051-B6EF-BDEF40567B0B) to learn more.
@@ -200,8 +199,8 @@ See the battlefield where the British regulars and colonial forces under the com
 - [Pittsburgh Visitors' Guide](https://www.visitpittsburgh.com/plan-your-trip/visitors-guide/)
 - [Seven Springs Mountain Resort](https://www.7springs.com)
 - [Highpointers.org](https://www.highpointers.org)
-- [test1](a.md)
-- [test2](./a.md)
+- [test1](schedule.md)
+- [test2](./schedule.md)
 - [test3](./This%20is%20a%20test.pdf)
 - [test4](https://www.highpointerskonvention2022.com/This%20is%20a%20test.pdf)
 <!--
