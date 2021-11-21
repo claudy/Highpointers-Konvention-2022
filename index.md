@@ -194,10 +194,9 @@ See the battlefield where the British regulars and colonial forces under the com
 - [Pittsburgh Visitors' Guide](https://www.visitpittsburgh.com/plan-your-trip/visitors-guide/)
 - [Seven Springs Mountain Resort](https://www.7springs.com)
 - [Highpointers.org](https://www.highpointers.org)
-- [test1](schedule.md)
-- [test2](./schedule.md)
-- [test3](./This%20is%20a%20test.pdf)
-- [test4](https://www.highpointerskonvention2022.com/This%20is%20a%20test.pdf)
+- [Schedule](schedule.md)
+- [Registration Form](./Registration_Form_updated_2021_11_16.pdf)
+
 <!--
 <img src="https://dummyimage.com/400x300/eee/888" alt="placeholder"/>
 -->
