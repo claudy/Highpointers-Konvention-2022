@@ -23,8 +23,8 @@ If you have been to a Highpointers’ Konvention before, we expect you’ll find
 
 -----------
 
-## [Tentative Schedule of Events](schedule.md) is available for viewing 📅
-Below is a summary
+## [Tentative Schedule of Events](schedule.md) is available for viewing 
+Summary below
 
 | Agenda Item | Day | Start Time | End Time | Location |
 |----------|----------|------|---|---|
@@ -39,7 +39,8 @@ Below is a summary
 ## [Konvention Registration](registration.md) is now open! 📝
 ⚠ You must be registered by May 1st, 2022.
 
-## On-Site Sign-in and Highpointers’ Shoppe (Merc) Hours
+## On-Site Registration table and Highpointers’ Shoppe (Merc) Hours
+Sign in at the registration table when you arrive.
         
 | Day           | Time            |
 |---------------|-----------------|
