@@ -1,4 +1,4 @@
-[Home](index.md) - [Registration](registration.md) - **Schedule** - [Nearby Attractions](nearby-attractions.md)
+[Home](index.md) - [Registration](registration.md) - [Lodging](lodging.md) - **Schedule** - [Nearby Attractions](nearby-attractions.md)
 
 # Tentative Schedule of Konvention Events
 

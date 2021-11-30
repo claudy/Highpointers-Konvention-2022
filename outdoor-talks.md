@@ -1,4 +1,4 @@
-[Home](index.md) - [Registration](registration.md) - [Schedule](schedule.md) - [Nearby Attractions](nearby-attractions.md)
+[Home](index.md) - [Registration](registration.md) - [Lodging](lodging.md) - [Schedule](schedule.md) - [Nearby Attractions](nearby-attractions.md)
 # Outdoor Talks
 These lectures are about the outdoors or our club, or both.
 

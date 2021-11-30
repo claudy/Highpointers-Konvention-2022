@@ -1,4 +1,4 @@
-[Home](index.md) - [Registration](registration.md) - [Schedule](schedule.md) - [Nearby Attractions](nearby-attractions.md)
+[Home](index.md) - [Registration](registration.md) - [Lodging](lodging.md) - [Schedule](schedule.md) - [Nearby Attractions](nearby-attractions.md)
 # Group Hikes
 
 Make new friends. Join a group of hikers and enjoy the great outdoors together.

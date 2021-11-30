@@ -1,6 +1,6 @@
 <!--Todo: figure out how to make justified or fit to width in html or markdown-->
 
-**Home** - [Registration](registration.md) - [Schedule](schedule.md) - [Nearby Attractions](nearby-attractions.md)
+**Home** - [Registration](registration.md) - [Lodging](lodging.md) - [Schedule](schedule.md) - [Nearby Attractions](nearby-attractions.md)
 
 # 34th Annual Highpointers’ Konvention PA-22 
 ## About the Konvention
