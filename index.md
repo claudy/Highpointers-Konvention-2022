@@ -15,7 +15,7 @@
 
 The “Konvention” is an annual gathering of outdoor enthusiasts (and families) whose common interests include reaching the highest point in each of the U.S. states — among other geo-challenges.  Each year, the event celebrates a specific state highpoint which, in 2022, will be Mount Davis, Pennsylvania (_3213 feet_).  
 
-Hundreds of attendees come from across the U.S. and represent all ages and levels of experience/interest in outdoor activities.  Seven Springs Mountain Resort will serve as host hotel and base of operations for 2022, centralizing the Konvention’s main events and offering a full range of amenities and activities for the whole family.   
+Hundreds of attendees come from across the U.S. and represent all ages and levels of experience/interest in outdoor activities.  Seven Springs Mountain Resort will serve as host hotel and base of operations for 2022, centralizing the Konvention’s main events and offering a full range of amenities and activities for the whole family.
 
 The official Konvention program runs from Thursday evening through Saturday evening and consists of several main functions for all attendees, including a celebration at the state highpoint.  Daytime activities on Friday and Saturday afternoon include smaller-group activities such as guided hikes, outdoor talks, and other programs along with the opportunity to take advantage of on-property amenities at the resort or tour local attractions on your own. 
  
@@ -42,9 +42,8 @@ Standard registration deadline is May 1st, 2022. Please register soon! Your host
 
 Highpointers that would like to volunteer to help with an event, email us at [konventionpa22@gmail.com](mailto:konventionpa22@gmail.com)
 
-### Questions and additional information
-[konventionpa22@gmail.com](mailto:konventionpa22@gmail.com)
-
+### Questions? 
+Contact us at — [konventionpa22@gmail.com](mailto:konventionpa22@gmail.com)
 
 ### Why is it spelled “Konvention” and not “Convention”?
 It is a tale of lore that documents for the inaugural event(s) were prepared using a manual typewriter that had a faulty “c” key, thus, a “k” was substituted.  Suffice it to say, the “K” has stuck and presents a unique name for the event and drives proofreaders crazy. We cannot substantiate any of this, but encourage you to come to Konvention PA-22 and ask an “old timer” this question in-person — You may find new and more exotic explanations! 
