@@ -39,6 +39,7 @@ Standard registration deadline is May 1st, 2022. Please register soon! Your host
 - Lead a group hike or outing
 - Present a talk or class
 - Serve as part of the host committee
+
 Highpointers that would like to volunteer to help with an event, email us at [konventionpa22@gmail.com](mailto:konventionpa22@gmail.com)
 
 ### Questions and additional information
