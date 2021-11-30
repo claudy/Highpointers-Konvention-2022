@@ -29,7 +29,7 @@ If you have been to a Highpointers’ Konvention before, we expect you’ll find
 
 ## [Lodging Room Block](lodging.md) is now open! 📝
 
-⚠ Register soon. Specific events may have limits for participation and are filled on a first-come first-serve basis. Registered attendees are the first to know about newly added events. You must be registered by May 1st to receive a t-shirt the day of the event.
+⚠ Register soon. Specific events may have limits for participation and are filled on a first-come first-serve basis. Registered attendees are the first to know about newly added events. You must be registered by May 1st to receive a commemorative T-shirt at the event.
 
 Standard registration deadline is May 1st, 2022. Please register soon! Your host committee relies on accurate headcounts to plan successful events!
 
