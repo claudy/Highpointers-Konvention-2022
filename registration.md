@@ -34,10 +34,6 @@ Sign in at the registration table when you arrive.
 | 6/24 Friday   | 7 a.m. – 9 p.m. |
 | 6/25 Saturday | 7 a.m. – 7 p.m. |
 
-# Overnight accommodations 
-## Block rooms
-See [Lodging](lodging.md)
-
 # Questions and Answers
 Q: Do I have to sign this liability waiver? 
 <br/>A: Yes. And do mail it in with your registration form. We'll make you sign it at the check-in table if you don't. 
