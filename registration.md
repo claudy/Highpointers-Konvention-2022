@@ -11,7 +11,7 @@
 - Under 5, no T-shirt — FREE
 
 # Instructions
-Print and mail the [registration form](./Registration_Form_updated_2021_11_16.pdf) with a check made payable to: <br/>
+Print and mail the [registration form](./Registration_Form_updated_2021_11_29.pdf) with a check made payable to: <br/>
 **Highpointers Club PA 22<br/>
 PO Box 204<br/>
 Saxonburg, PA 16056**
