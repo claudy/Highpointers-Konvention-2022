@@ -1,8 +1,14 @@
 <!--Todo: figure out how to make justified or fit to width in html or markdown-->
 
-**Home** - [Registration](registration.md) - [Lodging](lodging.md) - [Schedule](schedule.md) - [Nearby Attractions](nearby-attractions.md)
+**Home** - [Registration](registration.md) - [Schedule](schedule.md) - [Nearby Attractions](nearby-attractions.md)
 
 # 34th Annual Highpointers’ Konvention PA-22 
+
+|  | | | 
+|:---------|:----------|:------|
+| Where | [Seven Springs Mountain Resort](https://www.7springs.com) | 777 Water Wheel Dr<br> Champion, PA 15622<br>_[Google Maps](https://goo.gl/maps/qVyLmZVKZUYURZ2d6)_
+| When  | June 23-25, 2022 | |
+
 ## About the Konvention
 
 <img style="float: right; overflow: auto;" height="100" width="100" src="./highpointers-logo-CO.jpg">
@@ -25,15 +31,10 @@ If you have been to a Highpointers’ Konvention before, we expect you’ll find
 
 Register soon. Specific events may have limits for participation and are filled on a first-come first-serve basis. Early registration deadline is May 1st. Registered attendees are the first to know about newly added events. You must be registered by May 1st to receive a t-shirt at the event.
 
-_Standard registration deadline is May 1st, 2022.
-Please register soon! Your host committee relies on accurate headcounts to plan successful events! _
+Standard registration deadline is May 1st, 2022.
+Please register soon! Your host committee relies on accurate headcounts to plan successful events!
 
 -----------
-
-|  | | | 
-|:---------|:----------|:------|
-| Where | [Seven Springs Mountain Resort](https://www.7springs.com) | 777 Water Wheel Dr<br> Champion, PA 15622<br>_[Google Maps](https://goo.gl/maps/qVyLmZVKZUYURZ2d6)_
-| When  | June 23-25, 2022 | |
 
 ### Volunteer to help
 - Lead a group hike or outing
