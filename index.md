@@ -19,7 +19,9 @@ If you have been to a Highpointers’ Konvention before, we expect you’ll find
 
 ## [Tentative Schedule of Events](schedule.md) is available for viewing 
 
-## [Konvention Registration](registration.md) and [Lodging Booking](lodging.md) is now open! 📝
+## [Konvention Registration](registration.md) is now open! 📝
+
+## [Lodging Booking](lodging.md) is now open! 📝
 
 Register soon. Specific events may have limits for participation and are filled on a first-come first-serve basis. Early registration deadline is May 1st. Registered attendees are the first to know about newly added events. You must be registered by May 1st to receive a t-shirt at the event.
 

@@ -18,7 +18,7 @@
 PO Box 204<br/>
 Saxonburg, PA 16056**
 
-[Lodging](lodging.md) is not included with registration cost. Registration cost only covers the program of the Konvention.
+[Lodging](lodging.md) is **not** included with registration cost. Registration cost only covers the program of the Konvention.
 
 <!--
 Awaiting further instructions on this...
