@@ -1,6 +1,6 @@
 [Home](index.md) - Registration - [Schedule](schedule.md) - [Nearby Attractions](nearby-attractions.md)
 
-# Registration and Hotel Information
+# Registration
 ## Adults
 - $95 for club members
 - $110 non-members. Non-members are welcome! 

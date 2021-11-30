@@ -19,28 +19,29 @@ If you have been to a Highpointers’ Konvention before, we expect you’ll find
 
 ## [Tentative Schedule of Events](schedule.md) is available for viewing 
 
-## [Konvention Registration](registration.md) and [Lodging Booking](https://www.7springs.com) is now open! 📝
+## [Konvention Registration](registration.md) and [Lodging Booking](lodging.md) is now open! 📝
+
 Register soon. Specific events may have limits for participation and are filled on a first-come first-serve basis. Early registration deadline is May 1st. Registered attendees are the first to know about newly added events. You must be registered by May 1st to receive a t-shirt at the event.
 
 _Standard registration deadline is May 1st, 2022.
 Please register soon! Your host committee relies on accurate headcounts to plan successful events! _
 
-
-
 -----------
-
 
 |  | | | 
 |:---------|:----------|:------|
 | Where | [Seven Springs Mountain Resort](https://www.7springs.com) | 777 Water Wheel Dr<br> Champion, PA 15622<br>_[Google Maps](https://goo.gl/maps/qVyLmZVKZUYURZ2d6)_
 | When  | June 23-25, 2022 | |
 
-## Volunteer to help
+### Volunteer to help
 - Lead a group hike or outing
 - Present a talk or class
 - Serve as part of the host committee
-
 Highpointers that would like to volunteer to help with an event, email us at [konventionpa22@gmail.com](mailto:konventionpa22@gmail.com)
 
-## Why is it spelled “Konvention” and not “Convention”?
+### Questions and additional information
+[konventionpa22@gmail.com](mailto:konventionpa22@gmail.com)
+
+
+### Why is it spelled “Konvention” and not “Convention”?
 It is a tale of lore that documents for the inaugural event(s) were prepared using a manual typewriter that had a faulty “c” key, thus, a “k” was substituted.  Suffice it to say, the “K” has stuck and presents a unique name for the event and drives proofreaders crazy. We cannot substantiate any of this, but encourage you to come to Konvention PA-22 and ask an “old timer” this question in-person — You may find new and more exotic explanations! 
