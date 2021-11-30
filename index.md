@@ -19,19 +19,13 @@ If you have been to a Highpointers’ Konvention before, we expect you’ll find
 
 ## [Tentative Schedule of Events](schedule.md) is available for viewing 
 
-## [Konvention Registration](registration.md) is now open! 📝
-Register soon. Specific events may have limits for participation and are filled on a first-come first-serve basis. Current deadline for early registration is May 1st. Registered attendees are the first to know about newly added events. You must be registered by May 1st to receive a t-shirt at the event.
+## [Konvention Registration](registration.md) and [Lodging Booking](https://www.7springs.com) is now open! 📝
+Register soon. Specific events may have limits for participation and are filled on a first-come first-serve basis. Early registration deadline is May 1st. Registered attendees are the first to know about newly added events. You must be registered by May 1st to receive a t-shirt at the event.
 
-_Please register soon! Your host committee relies on accurate headcounts to plan successful events!_
+_Standard registration deadline is May 1st, 2022.
+Please register soon! Your host committee relies on accurate headcounts to plan successful events! _
 
-## On-Site Registration table and Highpointers’ Shoppe (Merc) Hours
-Sign in at the registration table when you arrive.
-        
-| Day           | Time            |
-|---------------|-----------------|
-| 6/23 Thursday | 4 p.m. – 9 p.m. |
-| 6/24 Friday   | 7 a.m. – 9 p.m. |
-| 6/25 Saturday | 7 a.m. – 7 p.m. |
+
 
 -----------
 

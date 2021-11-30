@@ -23,6 +23,15 @@ Awaiting further instructions on this...
 If you would like to donate to the Highpointers Foundation, please consider rounding up to the nearest hundred increment on your check.
 -->
 
+## On-Site Registration table and Highpointers’ Shoppe (Merc) Hours
+Sign in at the registration table when you arrive.
+        
+| Day           | Time            |
+|---------------|-----------------|
+| 6/23 Thursday | 4 p.m. – 9 p.m. |
+| 6/24 Friday   | 7 a.m. – 9 p.m. |
+| 6/25 Saturday | 7 a.m. – 7 p.m. |
+
 # Overnight accommodations 
 ## Block rooms
 To be announced `<-- Imagine a link to reserve lodging here` 
