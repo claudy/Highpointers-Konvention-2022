@@ -20,7 +20,9 @@ If you have been to a Highpointers’ Konvention before, we expect you’ll find
 ## [Tentative Schedule of Events](schedule.md) is available for viewing 
 
 ## [Konvention Registration](registration.md) is now open! 📝
-Register soon. Specific events may have limits for participation and are filled on a first-come first-serve basis. Current deadline for early registration is May 1st. You must be registered by May 1st to receive a t-shirt at the event.
+Register soon. Specific events may have limits for participation and are filled on a first-come first-serve basis. Current deadline for early registration is May 1st. Registered attendees are the first to know about newly added events. You must be registered by May 1st to receive a t-shirt at the event.
+
+_Please register soon! Your host committee relies on accurate headcounts to plan successful events!_
 
 ## On-Site Registration table and Highpointers’ Shoppe (Merc) Hours
 Sign in at the registration table when you arrive.
