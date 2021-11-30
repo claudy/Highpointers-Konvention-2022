@@ -2,6 +2,17 @@
 
 # Tentative Schedule of Konvention Events
 
+Summary below
+
+| Agenda Item | Day | Start Time | End Time | Location |
+|----------|----------|------|---|---|
+| Registration Table | All days | 7:30 pm | 8:30 pm | TBA |
+| "Liars' Club" Social | 6/23 | 7:30 pm | 11:00 pm | TBA |
+| Continental Breakfast | 6/24 | 7:00 am | 9:00 am | TBA |
+| Trivia and Game Night | 6/24 | 8:00 pm | 11:00 pm | TBA |
+| Mt. Davis Celebration and Watermelon Feast | 6/25 | 11:00 am | 2:00 pm | Mt. Davis |
+| Annual Dinner | 6/25 | 6:00 pm | 9:00 pm | TBA |
+
 **Admission to events with an asterisk (*) are included in the registration fee.**
 
 Registration for specific daytime programs may be limited due to space.  

@@ -1,17 +1,11 @@
-<img style="float: right; overflow: auto;" height="100" width="100" src="./highpointers-logo-CO.jpg">
-
 <!--Todo: figure out how to make justified or fit to width in html or markdown-->
 
 **Home** - [Registration](registration.md) - [Schedule](schedule.md) - [Nearby Attractions](nearby-attractions.md)
 
 # 34th Annual Highpointers’ Konvention PA-22 
-
-|  | | | 
-|:---------|:----------|:------|
-| Where | [Seven Springs Mountain Resort](https://www.7springs.com) | 777 Water Wheel Dr<br> Champion, PA 15622<br>_[Google Maps](https://goo.gl/maps/qVyLmZVKZUYURZ2d6)_
-| When  | June 23-25, 2022 | |
-
 ## About the Konvention
+
+<img style="float: right; overflow: auto;" height="100" width="100" src="./highpointers-logo-CO.jpg">
 
 The “Konvention” is an annual gathering of outdoor enthusiasts (and families) whose common interests include reaching the highest point in each of the U.S. states — among other geo-challenges.  Each year, the event celebrates a specific state highpoint which, in 2022, will be Mount Davis, Pennsylvania (_3213 feet_).  
 
@@ -24,20 +18,9 @@ If you have been to a Highpointers’ Konvention before, we expect you’ll find
 -----------
 
 ## [Tentative Schedule of Events](schedule.md) is available for viewing 
-Summary below
 
-| Agenda Item | Day | Start Time | End Time | Location |
-|----------|----------|------|---|---|
-| Registration Table | All days | 7:30 pm | 8:30 pm | TBA |
-| "Liars' Club" Social | 6/23 | 7:30 pm | 11:00 pm | TBA |
-| Continental Breakfast | 6/24 | 7:00 am | 9:00 am | TBA |
-| Trivia and Game Night | 6/24 | 8:00 pm | 11:00 pm | TBA |
-| Mt. Davis Celebration and Watermelon Feast | 6/25 | 11:00 am | 2:00 pm | Mt. Davis |
-| Annual Dinner | 6/25 | 6:00 pm | 9:00 pm | TBA |
-
------------
 ## [Konvention Registration](registration.md) is now open! 📝
-⚠ You must be registered by May 1st, 2022.
+Register soon. Specific events may have limits for participation and are filled on a first-come first-serve basis. Current deadline for early registration is May 1st. You must be registered by May 1st to receive a t-shirt at the event.
 
 ## On-Site Registration table and Highpointers’ Shoppe (Merc) Hours
 Sign in at the registration table when you arrive.
@@ -49,6 +32,12 @@ Sign in at the registration table when you arrive.
 | 6/25 Saturday | 7 a.m. – 7 p.m. |
 
 -----------
+
+
+|  | | | 
+|:---------|:----------|:------|
+| Where | [Seven Springs Mountain Resort](https://www.7springs.com) | 777 Water Wheel Dr<br> Champion, PA 15622<br>_[Google Maps](https://goo.gl/maps/qVyLmZVKZUYURZ2d6)_
+| When  | June 23-25, 2022 | |
 
 ## Volunteer to help
 - Lead a group hike or outing
