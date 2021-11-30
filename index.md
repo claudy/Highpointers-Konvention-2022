@@ -23,16 +23,15 @@ If you have been to a Highpointers’ Konvention before, we expect you’ll find
 
 -----------
 
-## [Tentative Schedule of Events](schedule.md) is available for viewing 
+## [Tentative Schedule of Events](schedule.md) is available for viewing
 
 ## [Konvention Registration](registration.md) is now open! 📝
 
-## [Lodging Booking](lodging.md) is now open! 📝
+## [Lodging Room Block](lodging.md) is now open! 📝
 
-Register soon. Specific events may have limits for participation and are filled on a first-come first-serve basis. Early registration deadline is May 1st. Registered attendees are the first to know about newly added events. You must be registered by May 1st to receive a t-shirt at the event.
+⚠ Register soon. Specific events may have limits for participation and are filled on a first-come first-serve basis. Registered attendees are the first to know about newly added events. You must be registered by May 1st to receive a t-shirt the day of the event.
 
-Standard registration deadline is May 1st, 2022.
-Please register soon! Your host committee relies on accurate headcounts to plan successful events!
+Standard registration deadline is May 1st, 2022. Please register soon! Your host committee relies on accurate headcounts to plan successful events!
 
 -----------
 
