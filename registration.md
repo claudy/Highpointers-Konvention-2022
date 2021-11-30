@@ -3,15 +3,17 @@
 # Registration
 ## Adults
 - $95 for club members
+    - [Join the club!](https://highpointers.org/application/)
 - $110 non-members. Non-members are welcome! 
 
 ## Children (Ages 5-12)
 - $60 club member
+    - [Join the club!](https://highpointers.org/application/)
 - $75 non-member
 - Under 5, no T-shirt — FREE
 
 # Instructions
-Print and mail the [registration form](./Registration_Form_updated_2021_11_29.pdf) with a check made payable to: <br/>
+**[Download the registration form](./Registration_Form_updated_2021_11_29.pdf)** and send by mail, with a check made payable to: <br/>
 **Highpointers Club PA 22<br/>
 PO Box 204<br/>
 Saxonburg, PA 16056**
@@ -34,7 +36,7 @@ Sign in at the registration table when you arrive.
 
 # Overnight accommodations 
 ## Block rooms
-To be announced `<-- Imagine a link to reserve lodging here` 
+See [Lodging
 
 # Questions and Answers
 Q: Do I have to sign this liability waiver? 
