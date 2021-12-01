@@ -18,7 +18,9 @@
 PO Box 204<br/>
 Saxonburg, PA 16056**
 
-[Lodging](lodging.md) is **not** included with registration cost. Registration cost only covers the program of the Konvention.
+[Lodging](lodging.md) is **not** included with Konvention registration and must be made separately.
+
+Registration is required for participation by all Konvention activities.  Each adult registrant will receive: A commemorative T-shirt; Welcome/Goodie bag; Access to daytime classes, demonstrations, organized treks and group outings; and Tickets to the highpoint celebration, evening social functions, annual dinner, and breakfasts.” 
 
 <!--
 Awaiting further instructions on this...
@@ -36,7 +38,7 @@ Sign in at the registration table when you arrive.
 
 # Questions and Answers
 Q: Do I have to sign this liability waiver? 
-<br/>A: Yes. And do mail it in with your registration form. We'll make you sign it at the check-in table if you don't. 
+<br/>A: Yes. And do mail it in with your registration form. If not received with registration, it must be completed on-site prior to participation in Konvention activities.
 
 Q: I'm under 18. Why does my parent or guardian have to sign? 
 <br/>A: They must consent and sign on your behalf because you are not of legal age to sign on your own.
