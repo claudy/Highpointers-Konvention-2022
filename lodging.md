@@ -20,7 +20,7 @@ Slopeside Hotel:
 - Queen Family Room — $169
 - King Jr. Family Suite — $179
 
-Rates are for Thursday, Friday, and Saturday (June 23-25) and may be extended for 3 contiguous stays before/after the official program (subject to availability).
+Rates are for Thursday, Friday, and Saturday (June 23-25) and may be extended for 3 contiguous nights before/after the official program (subject to availability).
 
 Rates quoted do not include local/state taxes, currently 11%.
 
