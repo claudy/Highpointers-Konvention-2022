@@ -20,7 +20,7 @@ Saxonburg, PA 16056**
 
 [Lodging](lodging.md) is **not** included with Konvention registration and must be made separately.
 
-Registration is required for participation by all Konvention activities.  Each adult registrant will receive: A commemorative T-shirt; Welcome/Goodie bag; Access to daytime classes, demonstrations, organized treks and group outings; and Tickets to the highpoint celebration, evening social functions, annual dinner, and breakfasts.” 
+Registration is required for participation by all Konvention activities.  Each adult registrant will receive: A commemorative T-shirt; Welcome/Goodie bag; Access to daytime classes, demonstrations, organized treks and group outings; and Tickets to the highpoint celebration, evening social functions, annual dinner, and breakfasts.
 
 <!--
 Awaiting further instructions on this...
