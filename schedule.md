@@ -2,7 +2,7 @@
 
 # Tentative Schedule of Konvention Events
 
-Summary below
+<!--Summary below
 
 | Agenda Item | Day | Start Time | End Time | Location |
 |----------|----------|------|---|---|
@@ -18,6 +18,7 @@ Summary below
 Registration for specific daytime programs may be limited due to space.  
 
 Times might change. Check back in a few weeks.
+-->
 
 # Thursday, June 23
 
