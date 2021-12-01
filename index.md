@@ -6,7 +6,8 @@
 
 |  | | | 
 |:---------|:----------|:------|
-| Where | [Seven Springs Mountain Resort](https://www.7springs.com) | 777 Water Wheel Dr<br> Champion, PA 15622<br>_[Google Maps](https://goo.gl/maps/qVyLmZVKZUYURZ2d6)_
+| Where | [Seven Springs Mountain Resort](https://www.7springs.com) | 777 Water Wheel Dr<br> Champion, PA 15622<br>_[Google Maps](https://goo.gl/maps/qVyLmZVKZUYURZ2d6)_ |
+| Highpoint | [Mount Davis, Forbes State Forest](https://www.dcnr.pa.gov/StateForests/FindAForest/Forbes/Pages/Wild_NaturalAreas.aspx) | Elk Lick Township, PA 15558 <br>_[Google Maps](https://www.google.com/maps/place/Mt+Davis/@39.7862064,-79.1846179,15z/data=!3m1!4b1!4m5!3m4!1s0x89cab86b6850d3e1:0x69e4c883fceaaa47!8m2!3d39.7861908!4d-79.1758631)_ |
 | When  | June 23-25, 2022 | |
 
 ## About the Konvention
@@ -42,8 +43,7 @@ Standard registration deadline is May 1st, 2022. Please register soon! Your host
 
 Highpointers that would like to volunteer to help with an event, email us at [konventionpa22@gmail.com](mailto:konventionpa22@gmail.com)
 
-### Questions? 
-Contact us at — [konventionpa22@gmail.com](mailto:konventionpa22@gmail.com)
+### Questions? Contact us at — [konventionpa22@gmail.com](mailto:konventionpa22@gmail.com)
 
 ### Why is it spelled “Konvention” and not “Convention”?
 It is a tale of lore that documents for the inaugural event(s) were prepared using a manual typewriter that had a faulty “c” key, thus, a “k” was substituted.  Suffice it to say, the “K” has stuck and presents a unique name for the event and drives proofreaders crazy. We cannot substantiate any of this, but encourage you to come to Konvention PA-22 and ask an “old timer” this question in-person — You may find new and more exotic explanations! 
