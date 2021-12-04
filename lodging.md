@@ -41,4 +41,4 @@ By Phone:
 
 Online:
 - [www.7springs.com/lodging/](https://www.7springs.com/lodging/)
-- Use Group Code: **8by85**
+- Use Group Code: **8by85i**
