@@ -17,7 +17,7 @@ These links are for the trailheads and parking:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://commons.wikimedia.org/wiki/Category:Mount_Davis_(Pennsylvania)#/media/File:Mt_Davis_Region_-_panoramio_(47).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mt_Davis_Region_-_panoramio_%2847%29.jpg/320px-Mt_Davis_Region_-_panoramio_%2847%29.jpg" alt="Rock at Mt Davis" style="max-width:300px;width:100%;"/></a>
 
 ### [Backbone Mountain](https://goo.gl/maps/JR1GqqUPS1RW5ym27)
-- Parking is limited to a couple of cars (Lat, Lon = 39.24427718071751, -79.4924738299859). If you are ok with a longer walk, consider parking at [Our Lady of the Pines Church](https://goo.gl/maps/YDFvCYvyGi1m7Vkb9)
+- Parking is limited to a couple of cars (Lat, Lon = 39.24427718071751, -79.4924738299859). The hike of Backbone Mountain is more strenuous than Mount Davis. If you are ok with a longer walk, consider parking at [Our Lady of the Pines Church](https://goo.gl/maps/YDFvCYvyGi1m7Vkb9)
 
 - Nearby camping options 
     - [Restrite Campground](https://goo.gl/maps/TVNF33T4Bck4zyDF7), 
