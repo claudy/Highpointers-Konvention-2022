@@ -59,9 +59,9 @@ Live music and cash bar.
 
  🥞 **Mountain Breakfast\***, 8-10 a.m. (Slopeside – Seven Springs Resort, [Breakfast Menu](https://ogden_images.s3.amazonaws.com/www.7springs.com/images/2021/01/slopeside-breakfast-113020_web.pdf))
 
-🍉 **Mt. Davis Celebration and Watermelon Feast\***, 11 a.m. (Mt. Davis)
+🍉 **Mt. Davis Celebration and Wendy Comstock Watermelon Feast\***, 11 a.m. (Mt. Davis)
 
-Konvention attendees will gather at Pennsylvania’s highpoint, Mt. Davis, located in Forbes State Park. Proceedings include a few brief remarks about the highpoint and a traditional watermelon toast, followed by the opportunity to explore the site and interpretive exhibits.  Participants should wear their Konvention T-shirt, as a group photo will be taken. 
+Konvention attendees will gather at Pennsylvania’s highpoint, Mt. Davis, located in Forbes State Park. Proceedings include a few brief remarks about the highpoint and a traditional watermelon toast, followed by the opportunity to explore the site and interpretive exhibits.  Participants should wear their Konvention T-shirt, as a group photo will be taken. Hiking afterwards is recommended.
 
 **Daylight Programs**, Noon-5 p.m. (Resort and Off-Site)
 
