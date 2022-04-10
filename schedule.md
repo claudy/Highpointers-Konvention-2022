@@ -67,7 +67,7 @@ Konvention attendees will gather at Pennsylvania’s highpoint, Mt. Davis, locat
 
 See description above. 
 
-**Highpointers Club Meetings**, Noon-5 p.m. (Snow Room – Resort) 
+**Highpointers Club Meetings**, 2-5 p.m. (Snow Room – Resort) 
 
 **Happy-Hour\***    5-6 p.m. (Grand Ballroom – Resort)
 
