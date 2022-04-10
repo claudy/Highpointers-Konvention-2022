@@ -57,7 +57,7 @@ Live music and cash bar.
 
 **On-Site Registration Desk and Highpointers’ Shoppe\***, 7 a.m.-9 p.m. (Resort)
 
- 🥞 **Mountain Breakfast\***, 8-10 a.m. (Slopeside – Seven Springs Resort)
+ 🥞 **Mountain Breakfast\***, 8-10 a.m. (Slopeside – Seven Springs Resort, [Breakfast Menu](https://ogden_images.s3.amazonaws.com/www.7springs.com/images/2021/01/slopeside-breakfast-113020_web.pdf))
 
 🍉 **Mt. Davis Celebration and Watermelon Feast\***, 11 a.m. (Mt. Davis)
 
