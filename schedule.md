@@ -42,7 +42,7 @@ Grab your coffee, juice, and light fare and get ready for a day of exploring and
 
 **Daytime Programs**, 8 a.m.-5 p.m. (Resort and Off-Site)
 
-Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of trails and amenities offered at the resort or participate in organized hikes, outdoor talks, and other activities.
+Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of trails and amenities offered at the resort, or participate in organized hikes, outdoor talks, and other activities.
 
 🙋‍♀️🙋‍♂️**Trivia Soiree\***, 8-11 p.m. (Resort TBA)
 
@@ -65,7 +65,7 @@ Konvention attendees will gather at Pennsylvania’s highpoint, Mt. Davis, locat
 
 **Daylight Programs**, Noon-5 p.m. (Resort and Off-Site)
 
-See description above. 
+Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of trails and amenities offered at the resort, or participate in organized hikes, outdoor talks, and other activities.
 
 **Highpointers Club Meetings**, 2-5 p.m. (Snow Room – Resort) 
 
