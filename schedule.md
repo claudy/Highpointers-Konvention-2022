@@ -61,7 +61,12 @@ Live music and cash bar.
 
 🍉 **Mt. Davis Celebration and Wendy Comstock Watermelon Feast\***, 11 a.m. (Mt. Davis)
 
-Konvention attendees will gather at Pennsylvania’s highpoint, Mt. Davis, located in Forbes State Park. Proceedings include a few brief remarks about the highpoint and a traditional watermelon toast, followed by the opportunity to explore the site and interpretive exhibits.  Participants should wear their Konvention T-shirt, as a group photo will be taken. Hiking afterwards is recommended.
+Konvention attendees will gather at Pennsylvania’s highpoint, Mt. Davis, located in Forbes State Park. Proceedings include a few brief remarks about the highpoint from the PA Department of Natural Resources and a traditional watermelon toast, followed by the opportunity to explore the site and interpretive exhibits.  Participants should wear their Konvention T-shirt, as a group photo will be taken. Hiking afterwards is recommended.
+
+Do not park on the grass. There are 50 parking spaces at the [parking Lot and picnic area **CCC Site 97**"](https://goo.gl/maps/AeG4EXsmWeRRkCQh6) and another 20 spaces at the [smaller parking lot](https://goo.gl/maps/AeG4EXsmWeRRkCQh6). Parking at the CCC Site 97 is recommended.
+
+![image](WelcomeToMtDavisPicnicAreaForbesStateForestBureauOfForestryDCNR.jpg)
+
 
 **Daylight Programs**, Noon-5 p.m. (Resort and Off-Site)
 
