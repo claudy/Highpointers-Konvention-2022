@@ -72,13 +72,15 @@ Do not park on the grass. There are 50 parking spaces at the [parking Lot and pi
 
 Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of trails and amenities offered at the resort, or participate in organized hikes, outdoor talks, and other activities.
 
-**Highpointers Club Meetings**, 2-5 p.m. (Snow Room – Resort) 
+**Highpointers Club Meetings**, 12:45-4:30 p.m. (Snow Room – Resort)
+- Foundation Meeting*, 12:45-2:15 p.m.
+- Club Meeting*, 2:30-4:30 p.m.
 
 **Happy-Hour\***    5-6 p.m. (Grand Ballroom – Resort)
 
  **Annual Dinner\***	6-8 p.m. (Grand Ballroom – Resort)
 
-Wrap up the convention with a celebration of highpointing and the spirit of bringing people together.  The locations of the 2023 and 2024 Konventions will be decided after dinner!  
+Wrap up the convention with a celebration of highpointing and the spirit of bringing people together.  The nomination of locations for the 2023 and 2024 Konventions will conducted after dinner! Konvention location elections will be conducted by mail.
 
 
 
