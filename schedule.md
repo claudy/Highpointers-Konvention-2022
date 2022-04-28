@@ -21,6 +21,8 @@ Times might change. Check back in a few weeks.
 -->
 
 # Thursday, June 23
+_Sunrise is 5:47 am_<br/>
+_Sunset is 8:51 pm_
 
 **On-Site Registration Desk and Highpointers’ Shoppe\***, 4-9 p.m. (Resort TBA)
 
@@ -34,6 +36,9 @@ Live music and cash bar.
 
 # Friday, June 24
 
+_Sunrise is 5:47 am_<br/>
+_Sunset is 8:51 pm_
+
 **On-Site Registration Desk and Highpointers’ Shoppe\***, 7 a.m.-9 p.m. (Resort)
 
 ☕ **Continental Breakfast\***, 8-10 a.m. (TBA)
@@ -46,7 +51,7 @@ Konvention attendees can choose to explore the Laurel Highlands region on their 
 
 🙋‍♀️🙋‍♂️**Trivia Soiree\***, 8-11 p.m. (Resort TBA)
 
-Join in on the fun and games! Two trivia sessions: one “general trivia” session for the whole family, followed by a “geo-trivia” session for the hard-core outdoor crowd! Prizes, refreshments, and more. 
+Join in on the fun and games! Two trivia sessions: one “general trivia” session for the whole family, followed by a “geo-trivia” session for the hard-core outdoor crowd! Prizes, refreshments, and more.
 
 **Afterglow\***, 11p.m. (Foggy Goggle/Bavarian Lounge – Resort)
 
@@ -54,10 +59,14 @@ Live music and cash bar.
 
 
 # Saturday, June 25 
+_Sunrise is at 5:48 am_<br/>
+_Sunset is 8:51 pm_
 
 **On-Site Registration Desk and Highpointers’ Shoppe\***, 7 a.m.-9 p.m. (Resort)
 
- 🥞 **Mountain Breakfast\***, 8-10 a.m. (Slopeside – Seven Springs Resort, [Breakfast Menu](https://ogden_images.s3.amazonaws.com/www.7springs.com/images/2021/01/slopeside-breakfast-113020_web.pdf))
+ 🥞 **Mountain Breakfast\***, 8-9:30 a.m. (Slopeside – Seven Springs Resort, [Breakfast Menu](https://ogden_images.s3.amazonaws.com/www.7springs.com/images/2021/01/slopeside-breakfast-113020_web.pdf))
+
+ We recommend leaving Seven Springs at 9:30am to get to the Watermelon feast in time for group photos.
 
 🍉 **Mt. Davis Celebration and Wendy Comstock Watermelon Feast\***, 11 a.m. (Mt. Davis)
 
@@ -71,6 +80,8 @@ Do not park on the grass. There are 50 parking spaces at the [parking Lot and pi
 **Daylight Programs**, Noon-5 p.m. (Resort and Off-Site)
 
 Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of trails and amenities offered at the resort, or participate in organized hikes, outdoor talks, and other activities.
+
+<!--TODO: LINK TO GROUP HIKES-->
 
 **Highpointers Club Meetings**, 12:45-4:30 p.m. (Snow Room – Resort)
 - Foundation Meeting*, 12:45-2:15 p.m.
