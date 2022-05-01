@@ -9,20 +9,33 @@ Have an idea for a hike you would like to lead? Email us at [konventionpa22@gmai
 
 | Title                            | Day           | Start Time |
 |----------------------------------|---------------|------------|
-| Tour of something                | Thursday 6/23 | TBA        |
-| Birds of Appalachian Mountains   | Friday 6/24   | TBA        |
-| Trees and Plants of Pennsylvania | Saturday 6/25 | TBA        |
+| Alan Ritter's Map and Compass 101| Friday 6/24   | TBA        |
+| Flight 93 Memorial               | Friday 6/24   | 11 a.m.    |
+| Trailhead Brewery Hike           | Friday 6/24   | 2 p.m.     |
+<!--| Trees and Plants of Pennsylvania | Saturday 6/25 | TBA        |-->
+<!--| Birds of Appalachian Mountains   | Friday 6/24   | TBA        |-->
 
 # Descriptions
-## Tour of something
-**Start Time**: {{day}} at {{time}} p.m.<br/>
-**Anticipated Duration**: {{time}} minutes<br/>
-**Presenter Name**: First Last<br/>
-**Location**: TBA<br/>
+
+## Alan Ritter's Map and Compass 101
+**Start Time**: ____________________.<br/>
+**Anticipated Duration**: _______ minutes<br/>
+**Leader Name**: Alan Ritter<br/>
+**Location**: ___________________<br/>
 **Difficulty**: Easy<br/>
 
-\>\>Summary of the hike goes here.\<\<
+Text goes here______________________________
 
+## Trailhead Brewery Hike
+**Start Time**: Friday at 2 p.m.<br/>
+**Anticipated Duration**: 180 minutes<br/>
+**Leader Name**: Garrett Burd<br/>
+**Location**: Trailhead Brewing Company<br/>
+**Difficulty**: Easy<br/>
+
+Meeting at Trailhead Brewing Company to enjoy beer, then departing on a hike part of the Greater Allegheny Passage bike trail a.k.a. "The GAP", return to the brewery.
+
+<!--
 ## Birds of Appalachian Mountains
 **Start Time**: {{day}} at {{time}} a.m.<br/>
 **Anticipated Duration**: {{time}} minutes<br/>
@@ -30,8 +43,21 @@ Have an idea for a hike you would like to lead? Email us at [konventionpa22@gmai
 **Location**: TBA<br/>
 **Difficulty**: Easy<br/>
 
-\>\>Summary of the hike goes here.\<\<
+Summary of the hike goes here.
+-->
 
+## Flight 93 Memorial
+**Start Time**: Friday at 11 a.m.<br/>
+**Anticipated Duration**: 90 minutes<br/>
+**Leader Name**: Volunteer needed<br/>
+**Location**: 45 minute drive from Seven Springs<br/>
+**Difficulty**: Easy<br/>
+
+Let's get a group to go visit this together.
+
+No entrance fee. Parking is free. The visitor center has a permanent exhibit.
+
+<!--
 ## Trees and Plants of Pennsylvania
 **Start Time**: {{day}} at {{time}} p.m.<br/>
 **Anticipated Duration**: {{time}} minutes<br/>
@@ -40,3 +66,4 @@ Have an idea for a hike you would like to lead? Email us at [konventionpa22@gmai
 **Difficulty**: Easy<br/>
 
 \>\>Summary of the hike goes here.\<\<
+-->
