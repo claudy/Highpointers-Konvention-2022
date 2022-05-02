@@ -59,4 +59,4 @@ Q: What is included with registration cost?
 <br/>A: Anything marked with an asterisk (*) on the [schedule of events](schedule.md) is included in the registration fee.
 
 Q: When is the registration deadline?
-<br/>A: Please register as soon as possible. We would like you to register by May 1st, 2022. We will accept registrations after that date.
+<br/>A: Please register as soon as possible. We would like you to register by May 14th, 2022. We will accept registrations after that date.
