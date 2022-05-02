@@ -32,9 +32,9 @@ Sign in at the registration table when you arrive.
         
 | Day           | Time            |
 |---------------|-----------------|
-| 6/23 Thursday | 4 p.m. – 9 p.m. |
-| 6/24 Friday   | 7 a.m. – 9 p.m. |
-| 6/25 Saturday | 7 a.m. – 7 p.m. |
+| 6/23 Thursday | 4 p.m. – TBA |
+| 6/24 Friday   | 7 a.m. – TBA |
+| 6/25 Saturday | 7 a.m. – TBA |
 
 # Questions and Answers
 Q: Do I have to sign this liability waiver? 
