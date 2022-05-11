@@ -177,6 +177,15 @@ The [Johnstown Flood Museum](https://www.jaha.org/attractions/johnstown-flood-mu
 ## Fort Necessity National Battlefield
 See the battlefield where the British regulars and colonial forces under the command of George Washington fought and honorably surrendered to the French and Indians in 1754. The fort has been reconstructed with white oak, as found by archeologic studying of the site. There is a handicapped accessible walking path from the parking lot to the fort. The park is one mile away from the grave of General Edward Braddock, who was commander-in-chief of the British Army at the start of the French and Indian war. Watch this [introductory video from National Park Service](https://www.nps.gov/media/video/view.htm?id=12C48698-374F-4051-B6EF-BDEF40567B0B) to learn more.
 
+## MD-PA-WV Tripoint
+The tripoint of Pennsylvania, Maryland, and West Virginia is 55 minute drive away from Seven Springs.
+- [Highpointers.org Tripoints Data](https://highpointers.org/wp-content/uploads/tripoints/pages/3ptMD-PA-WV.html)
+- [Google Maps](https://goo.gl/maps/hxVVQZmQQF7Cz3h28) 
+
+Take Rt 281 south from Markleysburg, PA towards Morgantown. Drive 3.5 miles. Turn left onto Virginia Lane. 
+
+The road is rocky and may not suitable for small vehicles.
+
 
 ## Links 
 - [Somerset County Tourism Guide](https://somersetcountychamber.com/tourism/)
