@@ -10,8 +10,6 @@ Have an idea for a hike you would like to lead? Email us at [konventionpa22@gmai
 | Alan Ritter's Map and Compass 101| Friday 6/24   | TBA        |
 | Flight 93 Memorial               | Friday 6/24   | 11 a.m.    |
 | Trailhead Brewery Hike           | Friday 6/24   | 2 p.m.     |
-<!--| Trees and Plants of Pennsylvania | Saturday 6/25 | TBA        |-->
-<!--| Birds of Appalachian Mountains   | Friday 6/24   | TBA        |-->
 
 # Descriptions
 
@@ -44,25 +42,3 @@ No entrance fee. Parking is free. The visitor center has a permanent exhibit.
 **Difficulty**: Easy<br/>
 
 Meeting at Trailhead Brewing Company to enjoy beer, then walk along a section of the Greater Allegheny Passage bike trail a.k.a. "The GAP", return to the brewery.
-
-<!--
-## Birds of Appalachian Mountains
-**Start Time**: {{day}} at {{time}} a.m.<br/>
-**Anticipated Duration**: {{time}} minutes<br/>
-**Presenter Name**: First Last<br/>
-**Location**: TBA<br/>
-**Difficulty**: Easy<br/>
-
-Summary of the hike goes here.
--->
-
-<!--
-## Trees and Plants of Pennsylvania
-**Start Time**: {{day}} at {{time}} p.m.<br/>
-**Anticipated Duration**: {{time}} minutes<br/>
-**Presenter Name**: First Last<br/>
-**Location**: TBA<br/>
-**Difficulty**: Easy<br/>
-
-\>\>Summary of the hike goes here.\<\<
--->
