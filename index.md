@@ -24,7 +24,7 @@ If you have been to a Highpointers’ Konvention before, we expect you’ll find
 
 -----------
 
-## [Tentative Schedule of Events](schedule.md) is available for viewing
+## [Schedule of Events](schedule.md) is available for viewing
 
 ## [Konvention Registration](registration.md) is now open! 📝
 

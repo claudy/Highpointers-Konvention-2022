@@ -1,6 +1,6 @@
 [Home](index.md) - [Registration](registration.md) - [Lodging](lodging.md) - **Schedule** - [Nearby Attractions](nearby-attractions.md) - [Group Hikes](group-hikes.md) 
 
-# Tentative Schedule of Konvention Events
+# Schedule of Konvention Events
 
 <!--Summary below
 
@@ -24,7 +24,7 @@ Times might change. Check back in a few weeks.
 _Sunrise is 5:47 am_<br/>
 _Sunset is 8:51 pm_
 
-**On-Site Registration Desk and Highpointers’ Shoppe\***, 4-9 p.m. (Resort TBA)
+**On-Site Registration Desk and Highpointers’ Shoppe\***, Times TBA. (Resort TBA)
 
 **Liar’s Club Social\***, 7-9 p.m. (Resort TBA)
 
@@ -39,7 +39,7 @@ Live music and cash bar.
 _Sunrise is 5:47 am_<br/>
 _Sunset is 8:51 pm_
 
-**On-Site Registration Desk and Highpointers’ Shoppe\***, 7 a.m.-9 p.m. (Resort)
+**On-Site Registration Desk and Highpointers’ Shoppe\***, Times TBA. (Resort)
 
 ☕ **Continental Breakfast\***, 8-10 a.m. (TBA)
 
@@ -62,7 +62,7 @@ Live music and cash bar.
 _Sunrise is at 5:48 am_<br/>
 _Sunset is 8:51 pm_
 
-**On-Site Registration Desk and Highpointers’ Shoppe\***, 7 a.m.-9 p.m. (Resort)
+**On-Site Registration Desk and Highpointers’ Shoppe\***, Times TBA. (Resort)
 
  🥞 **Mountain Breakfast\***, 8-9:30 a.m. (Slopeside – Seven Springs Resort, [Breakfast Menu](https://ogden_images.s3.amazonaws.com/www.7springs.com/images/2021/01/slopeside-breakfast-113020_web.pdf))
 
