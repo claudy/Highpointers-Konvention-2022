@@ -1,4 +1,4 @@
-[Home](index.md) - Registration - [Lodging](lodging.md) - [Schedule](schedule.md) - [Nearby Attractions](nearby-attractions.md)
+[Home](index.md) - Registration - [Lodging](lodging.md) - [Schedule](schedule.md) - [Nearby Attractions](nearby-attractions.md) - [Group Hikes](group-hikes.md) 
 
 # Registration
 ## Adults

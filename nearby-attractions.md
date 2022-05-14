@@ -1,4 +1,4 @@
-[Home](index.md) - [Registration](registration.md) - [Schedule](schedule.md) - **Nearby Attractions**
+[Home](index.md) - [Registration](registration.md) - [Schedule](schedule.md) - **Nearby Attractions** - [Group Hikes](group-hikes.md) 
 
 # Nearby Attractions
 
