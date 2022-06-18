@@ -12,9 +12,9 @@ _Sunset is 8:51 pm_
 
 A kickoff meet and greet for Konvention PA-22 attendees!  Join outdoor enthusiasts from around the globe for a few remarks, refreshments and lots of conversation about travel and highpointing conquests.  Share your own stories and embellish a little, if you like.  
 
-🥽 **Afterglow**, 10 p.m. (Foggy Goggle)
+🥽 **Afterglow**, 10 p.m. (Foggy Goggle or Bavarian Lounge)
 
-Live music and cash bar. 
+Live music and cash bar.
 
 # Friday, June 24
 
@@ -32,9 +32,9 @@ Konvention attendees can choose to explore the Laurel Highlands region on their 
 
 Join in on the fun and games! Two trivia sessions: one “general trivia” session for the whole family, followed by a “geo-trivia” session for the hard-core outdoor crowd! Prizes, refreshments, and more.
 
-🥽 **Afterglow**, 11 p.m. (Foggy Goggle)
+🥽 **Afterglow**, 11 p.m. (Foggy Goggle or Bavarian Lounge)
 
-Live music and cash bar. 
+Live music and cash bar.
 
 
 # Saturday, June 25 
