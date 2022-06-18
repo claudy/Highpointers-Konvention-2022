@@ -26,7 +26,7 @@ Grab your freshly brewed coffee, tea, fruit juice, and a danish or donut. Get re
 
 **Daytime Programs**, 8 a.m.-5 p.m. (Snowflake Room and Off-Site)
 
-Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of trails and amenities offered at the resort, or participate in [organized hikes](group-hikes.md), outdoor talks, and other activities.
+Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of [trails](https://ogden-images-pagely.s3.amazonaws.com/www.7springs.com/images/2020/05/SummerTrailGuide_2020_pg1.pdf) and amenities offered at the resort, or participate in [organized hikes](group-hikes.md), outdoor talks, and other activities.
 
 🙋‍♀️🙋‍♂️**Trivia Soiree**, 7-11 p.m. (Matterhorn and Deck)
 
@@ -60,7 +60,7 @@ Do not park on the grass. There are 50 parking spaces at the [parking Lot and pi
 
 **Daylight Programs**, Noon-5 p.m. (Resort and Off-Site)
 
-Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of trails and amenities offered at the resort, or participate in [organized hikes](group-hikes.md), outdoor talks, and other activities.
+Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of [trails](https://ogden-images-pagely.s3.amazonaws.com/www.7springs.com/images/2020/05/SummerTrailGuide_2020_pg1.pdf) and amenities offered at the resort, or participate in [organized hikes](group-hikes.md), outdoor talks, and other activities.
 
 **Highpointers Foundation Meeting**, 12:45-2:15 p.m. (Snowflake Room)
 
@@ -72,4 +72,4 @@ Konvention attendees can choose to explore the Laurel Highlands region on their 
 
 Wrap up the convention with a celebration of highpointing and the spirit of bringing people together.  The nomination of locations for the 2023 and 2024 Konventions will conducted after dinner! Konvention location elections will be conducted by mail.
 
-On Sunday morning, the Slopeside Dining Room will be open on from 7am to 10am for anyone who whishes to order an à la carte breakfast.
+On Sunday morning, the [Slopeside Dining Room](https://ogden_images.s3.amazonaws.com/www.7springs.com/images/2021/01/slopeside-breakfast-113020_web.pdf) will be open on from 7am to 10am for anyone who whishes to order an à la carte breakfast.
