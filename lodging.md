@@ -26,7 +26,7 @@ Rates quoted do not include local/state taxes, currently 11%.
 
 Room block is limited. Special rates are available on a first-come, first-served basis.
 
-Accomodations Include:
+Accommodations Include:
 - Free on-site parking
 - Complimentary Resort Shuttle Access
 - Indoor/Outdoor Pool Access

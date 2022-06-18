@@ -5,6 +5,9 @@ Make new friends. Join a group of hikers and enjoy the great outdoors together.
 
 Have an idea for a hike you would like to lead? Email us at [konventionpa22@gmail.com](mailto:konventionpa22@gmail.com) and we can add it to the list below.
 
+Seven Springs published a [hiking trails map](https://ogden-images-pagely.s3.amazonaws.com/www.7springs.com/images/2020/05/SummerTrailGuide_2020_pg1.pdf) showing trails within walking distance of the lodge.
+
+
 | Title                            | Day           | Start Time |
 |----------------------------------|---------------|------------|
 | Alan Ritter's Map and Compass 101| Friday 6/24   | TBA        |

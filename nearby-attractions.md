@@ -192,3 +192,4 @@ The road is rocky and may not suitable for small vehicles.
 - [Johnstown Visitor Center](https://www.visitjohnstownpa.com/)
 - [Pittsburgh Visitors' Guide](https://www.visitpittsburgh.com/plan-your-trip/visitors-guide/)
 - [Seven Springs Mountain Resort](https://www.7springs.com) is located at **777 Water Wheel Drive, Champion, PA 15622** \[[Google Maps](https://goo.gl/maps/qVyLmZVKZUYURZ2d6)\]
+Seven Springs published a [hiking trails map](https://ogden-images-pagely.s3.amazonaws.com/www.7springs.com/images/2020/05/SummerTrailGuide_2020_pg1.pdf) showing trails within walking distance of the lodge.
