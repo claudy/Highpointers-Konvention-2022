@@ -10,7 +10,7 @@ _Sunset is 8:51 pm_
 
 Time: Noon - 9 p.m.
 
-Location: Laurel Room \(2nd floor, Convention Wing\)
+Location: Laurel Room \(2nd floor, Convention Center\)
 
 ### **Liar’s Club Social**
 
