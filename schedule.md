@@ -12,7 +12,7 @@ Time: Noon - 9 p.m.
 
 Location: Laurel Room \(2nd floor, Convention Center\)
 
-### **Liar’s Club Social**
+### 🍻 **Liar’s Club Social**
 
 Time: 7 - 10 p.m.
 
@@ -42,7 +42,7 @@ What: Grab your freshly brewed coffee, tea, fruit juice, and a danish or donut. 
 
 Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of [trails](https://ogden-images-pagely.s3.amazonaws.com/www.7springs.com/images/2020/05/SummerTrailGuide_2020_pg1.pdf) and amenities offered at the resort, or participate in [organized hikes](group-hikes.md), outdoor talks, and other activities.
 
-### **Flight 93 National Memorial**
+### 🏛 **Flight 93 National Memorial**
 
 Time: 11 a.m.
 
@@ -52,7 +52,7 @@ What: A group will be going to visit the Flight 93 Memorial after breakfast.  Th
 
 Notes: The memorial is roughly 30 miles (~45 min drive) east of 7 Springs Resort.
 
-### **GAP Trail Hike**
+### 🥾 **GAP Trail Hike**
 
 Time: 2 p.m.
 
@@ -60,13 +60,17 @@ Location: Meyersdale Area Historical Society, 527 Main St, Meyersdale, PA 15552
 
 What: We will be parking at the Meyersdale Area Historical Society (Trail access is behind their building) and heading southwards along the GAP trail. The planned hike is to travel 3 miles (one way. 6 miles total) south to the Keystone viaduct, then returning north to Meyersdale.  Guests are welcome to join for some or all of this hike!
 
-### **Post-Hike Recovery Stop**
+Note: This section of the GAP is a very well-maintained trail. It is paved, level, and presents a very easy and enjoyable hike.
+
+For those looking to cover a longer section of the GAP, cycling the trail would be a good idea.  One option would be hopping onto the GAP in Rockwood, near where our next event \(the Post-Hike Recovery Stop\) will be held.  The [Rockwood Bike Shop](http://www.rockwoodtrailhouse.com/bike_shop.htm) \(131 Rockdale Rd, Rockwood, PA 15557\) sits directly adjacent to the GAP trail access, and offers bicycle rentals.  If you choose to use this option, please call the shop ahead of time.  \(We have spoken to the owner and he will be in-and-out some Friday afternoon, but he will definitely be there if anyone is coming to rent.\)
+
+### 🍺 **Post-Hike Recovery Stop**
 
 Time: 4 - 6 p.m.
 
 Location: Trailhead Brewing Company, 402 Main St Suite C, Rockwood, PA 15557
 
-What: It's a long drive back to Seven Springs after that hike, so let's cut it in half with some refreshments at a local brewery.  Feel free to stop in and discuss your GAP adventures!
+What: It's a long drive back to Seven Springs after that hike, so let's cut it in half with some refreshments at a local brewery.  Feel free to stop in and discuss your GAP adventures! Please note that the brewery opens at 4pm on Friday, so this may be the one time you don't need to get there early!
 
 ### 🙋‍♀️🙋‍♂️**Trivia Soiree**
 
@@ -108,39 +112,39 @@ Location: Mt. Davis, Elk Lick Township, PA 15558
 
 What: Konvention attendees will gather at Pennsylvania’s highpoint, Mt. Davis, located in Forbes State Park. Proceedings include a few brief remarks about the highpoint from the PA Department of Natural Resources and a traditional watermelon toast, followed by the opportunity to explore the site and interpretive exhibits.  Participants should wear their Konvention T-shirt, as a group photo will be taken. Hiking afterwards is recommended.
 
-Do not park on the grass. There are 50 parking spaces at the [parking Lot and picnic area **CCC Site 97**"](https://goo.gl/maps/AeG4EXsmWeRRkCQh6) and another 20 spaces at the [smaller parking lot](https://goo.gl/maps/AeG4EXsmWeRRkCQh6). Parking at the CCC Site 97 is recommended.
+**Do not park on the grass or on the side of the road.** There are 50 parking spaces at the [parking Lot and picnic area **CCC Site 97**"](https://goo.gl/maps/AeG4EXsmWeRRkCQh6) and another 20 spaces at the [smaller parking lot](https://goo.gl/maps/AeG4EXsmWeRRkCQh6). Parking at the CCC Site 97 is recommended.
 
-Please not that there is a short ~1/2 mile hike from the CCC Site 97 lot to the highpoint.
+Please note that there is a short ~1/2 mile hike from the CCC Site 97 lot to the highpoint.
 
 ![image](WelcomeToMtDavisPicnicAreaForbesStateForestBureauOfForestryDCNR.jpg)
 
-### **Forbes State Forest Hike**
+### 🥾 **Forbes State Forest Hike**
 
 Time: Noon
 
 Location: Mt. Davis, Elk Lick Township, PA 15558
 
-What: We will be hiking the Mt. Davis Pennsylvania Highpoint Trail.  We will have already walked part of this trail from CCC Site 97 to the highpoint.  This hike will leave from the highpoint and follow the trail counter-clockwise areound Forbes State Forest, ending back at CCC Site 97. Total distance is approximately 4.5 miles, and should take a little over 2 hours to complete.
+What: A hike along the Mt. Davis Pennsylvania Highpoint Trail.  We will have already walked part of this trail from CCC Site 97 to the highpoint.  This hike will leave from the highpoint and follow the trail counter-clockwise around Forbes State Forest, ending back at CCC Site 97. Total distance is approximately 4.5 miles, and should take a little over 2 hours to complete.
 
-### **Highpointers Foundation Meeting**
+### 📈 **Highpointers Foundation Meeting**
 
 Time: 12:45 - 2:15 p.m.
 
 Location: Snowflake Room \(3rd floor, Convention Center\)
 
-### **Highpointers Club Meeting**
+### 📊 **Highpointers Club Meeting**
 
 Time: 2:30 - 4:30 p.m.
 
 Location: Snowflake Room \(3rd floor, Convention Center\)
 
-### **Happy-Hour**
+### 🍸 **Happy-Hour**
 
 Time: 5 - 6 p.m.
 
 Location: Exhibit Hall \(4th floor, Convention Center\)
 
-### **Annual Dinner**
+### 🍽 **Annual Dinner**
 
 Time: 6 - 9 p.m.
 
