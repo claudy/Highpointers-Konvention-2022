@@ -26,8 +26,6 @@ If you have been to a Highpointers’ Konvention before, we expect you’ll find
 
 ## [Schedule of Events](schedule.md) is available for viewing!
 
------------
-
 ### Volunteer to help
 - Lead a group hike or outing
 - Present a talk or class
