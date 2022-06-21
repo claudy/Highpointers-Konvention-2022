@@ -110,7 +110,17 @@ What: Konvention attendees will gather at Pennsylvania’s highpoint, Mt. Davis,
 
 Do not park on the grass. There are 50 parking spaces at the [parking Lot and picnic area **CCC Site 97**"](https://goo.gl/maps/AeG4EXsmWeRRkCQh6) and another 20 spaces at the [smaller parking lot](https://goo.gl/maps/AeG4EXsmWeRRkCQh6). Parking at the CCC Site 97 is recommended.
 
+Please not that there is a short ~1/2 mile hike from the CCC Site 97 lot to the highpoint.
+
 ![image](WelcomeToMtDavisPicnicAreaForbesStateForestBureauOfForestryDCNR.jpg)
+
+### **Forbes State Forest Hike**
+
+Time: Noon
+
+Location: Mt. Davis, Elk Lick Township, PA 15558
+
+What: We will be hiking the Mt. Davis Pennsylvania Highpoint Trail.  We will have already walked part of this trail from CCC Site 97 to the highpoint.  This hike will leave from the highpoint and follow the trail counter-clockwise areound Forbes State Forest, ending back at CCC Site 97. Total distance is approximately 4.5 miles, and should take a little over 2 hours to complete.
 
 ### **Highpointers Foundation Meeting**
 
