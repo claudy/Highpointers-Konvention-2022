@@ -4,7 +4,11 @@
 _Sunrise is 5:47 am_<br/>
 _Sunset is 8:51 pm_
 
+-----------
+
 # Thursday, June 23
+
+-----------
 
 ### 📃 **On-Site Registration Desk and Highpointers’ Shoppe**
 
@@ -22,7 +26,11 @@ What: A kickoff meet and greet for Konvention PA-22 attendees!  Join outdoor ent
 
 Notes: A cash bar will be available.  Food will not be provided, but guests are welcome to bring in food, including orders from any restuarants within the resort.
 
+-----------
+
 # Friday, June 24
+
+-----------
 
 ### 📃 **On-Site Registration Desk and Highpointers’ Shoppe**
 
@@ -82,7 +90,11 @@ What: Join in on the fun and games! Two trivia sessions: one “general trivia�
 
 Notes: A cash bar will be available.  Food will not be provided, but guests are welcome to bring in food, including orders from any restuarants within the resort.
 
+-----------
+
 # Saturday, June 25
+
+-----------
 
 ### 📃 **On-Site Registration Desk and Highpointers’ Shoppe**
 
