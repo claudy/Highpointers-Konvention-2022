@@ -24,7 +24,7 @@ Location: Matterhorn and Deck \(3rd floor, Main Lodge)
 
 What: A kickoff meet and greet for Konvention PA-22 attendees!  Join outdoor enthusiasts from around the globe for a few remarks, refreshments and lots of conversation about travel and highpointing conquests.  Share your own stories and embellish a little, if you like.
 
-Notes: A cash bar will be available.  Food will not be provided, but guests are welcome to bring in food, including orders from any restuarants within the resort.
+> Note: A cash bar will be available.  Food will not be provided, but guests are welcome to bring in food, and restuarants within the resort will be open.
 
 -----------
 
@@ -58,7 +58,7 @@ Location: 6424 Lincoln Hwy, Stoystown, PA 15563
 
 What: A group will be going to visit the Flight 93 Memorial after breakfast.  The U.S. Park Service has built a very nice [memorial and visitors center](https://www.nps.gov/flni/index.htm). Expect to spend about an hour here, possible a little longer.
 
-Notes: The memorial is roughly 30 miles (~45 min drive) east of 7 Springs Resort.
+> Note: The memorial is roughly 30 miles (~45 min drive) east of Seven Springs Resort.
 
 ### 🥾 **GAP Trail Hike**
 
@@ -68,7 +68,7 @@ Location: Meyersdale Area Historical Society, 527 Main St, Meyersdale, PA 15552
 
 What: We will be parking at the Meyersdale Area Historical Society (Trail access is behind their building) and heading southwards along the GAP trail. The planned hike is to travel 3 miles (one way. 6 miles total) south to the Keystone viaduct, then returning north to Meyersdale.  Guests are welcome to join for some or all of this hike!
 
-Note: This section of the GAP is a very well-maintained trail. It is paved, level, and presents a very easy and enjoyable hike.
+> Note: This section of the GAP is a very well-maintained trail. It is paved, level, and presents a very easy and enjoyable hike.
 
 For those looking to cover a longer section of the GAP, cycling the trail would be a good idea.  One option would be hopping onto the GAP in Rockwood, near where our next event \(the Post-Hike Recovery Stop\) will be held.  The [Rockwood Bike Shop](http://www.rockwoodtrailhouse.com/bike_shop.htm) \(131 Rockdale Rd, Rockwood, PA 15557\) sits directly adjacent to the GAP trail access, and offers bicycle rentals.  If you choose to use this option, please call the shop ahead of time.  \(We have spoken to the owner and he will be in-and-out some Friday afternoon, but he will definitely be there if anyone is coming to rent.\)
 
@@ -88,7 +88,7 @@ Location: Matterhorn and Deck \(3rd floor, Main Lodge)
 
 What: Join in on the fun and games! Two trivia sessions: one “general trivia” session for the whole family, followed by a “geo-trivia” session for the hard-core outdoor crowd! Prizes, refreshments, and more.
 
-Notes: A cash bar will be available.  Food will not be provided, but guests are welcome to bring in food, including orders from any restuarants within the resort.
+> Note: A cash bar will be available.  Food will not be provided, but guests are welcome to bring in food, and restuarants within the resort will be open.
 
 -----------
 
