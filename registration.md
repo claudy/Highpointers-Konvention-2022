@@ -19,7 +19,7 @@ Awaiting further instructions on this...
 If you would like to donate to the Highpointers Foundation, please consider rounding up to the nearest hundred increment on your check.
 -->
 
-## On-Site Registration table and Highpointers’ Shoppe (Merc) Hours
+## On-Site Registration table, Foundation table, and Highpointers’ Shoppe (Merchandise) Hours
 Sign in at the registration table when you arrive.
 Registration will be located in the Laurel Room, on the 2nd floor of the Convention Center section of the resort.
 
