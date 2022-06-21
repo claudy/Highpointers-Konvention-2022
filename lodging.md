@@ -12,20 +12,6 @@ Complementing the Konvention’s official events and programs, the resort offers
 
 Lodging is handled separately from Konvention registration and must be booked independently by attendees, based on their own needs and preferences.  A room block and special group rate have been secured for Konvention guests.
 
-## Group Room Rates (per night)
-
-Slopeside Hotel:
-- Lodge Queen — $139
-- King or Queen Tower — $149
-- Queen Family Room — $169
-- King Jr. Family Suite — $179
-
-Rates are for Thursday, Friday, and Saturday (June 23-25) and may be extended for 3 contiguous nights before/after the official program (subject to availability).
-
-Rates quoted do not include local/state taxes, currently 11%.
-
-Room block is limited. Special rates are available on a first-come, first-served basis.
-
 Accommodations Include:
 - Free on-site parking
 - Complimentary Resort Shuttle Access
