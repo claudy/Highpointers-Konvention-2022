@@ -1,97 +1,153 @@
 [Home](index.md) - [Registration](registration.md) - [Lodging](lodging.md) - **Schedule** - [Nearby Attractions](nearby-attractions.md) - [Group Hikes](group-hikes.md) 
 
 # Schedule of Konvention Events
-
-<!--Summary below
-
-| Agenda Item | Day | Start Time | End Time | Location |
-|----------|----------|------|---|---|
-| Registration Table | All days | 7:30 pm | 8:30 pm | TBA |
-| "Liars' Club" Social | 6/23 | 7:30 pm | 11:00 pm | TBA |
-| Continental Breakfast | 6/24 | 7:00 am | 9:00 am | TBA |
-| Trivia and Game Night | 6/24 | 8:00 pm | 11:00 pm | TBA |
-| Mt. Davis Celebration and Watermelon Feast | 6/25 | 11:00 am | 2:00 pm | Mt. Davis |
-| Annual Dinner | 6/25 | 6:00 pm | 9:00 pm | TBA |
-
-**Admission to events with an asterisk (*) are included in the registration fee.**
-
-Registration for specific daytime programs may be limited due to space.  
-
-Times might change. Check back in a few weeks.
--->
-
-# Thursday, June 23
 _Sunrise is 5:47 am_<br/>
 _Sunset is 8:51 pm_
 
-**On-Site Registration Desk and Highpointers’ Shoppe\***, Times TBA. (Resort TBA)
+# Thursday, June 23
 
-**Liar’s Club Social\***, 7-9 p.m. (Resort TBA)
+### 📃 **On-Site Registration Desk and Highpointers’ Shoppe**
 
-A kickoff meet and greet for Konvention PA-22 attendees!  Join outdoor enthusiasts from around the globe for a few remarks, refreshments and lots of conversation about travel and highpointing conquests.  Share your own stories and embellish a little, if you like.  
+Time: Noon - 9 p.m.
 
-**Afterglow\***, 9 p.m. (Foggy Goggle/Bavarian Lounge – Resort)
+Location: Laurel Room \(2nd floor, Convention Wing\)
 
-Live music and cash bar. 
+### **Liar’s Club Social**
+
+Time: 7 - 10 p.m.
+
+Location: Matterhorn and Deck \(3rd floor, Main Lodge)
+
+What: A kickoff meet and greet for Konvention PA-22 attendees!  Join outdoor enthusiasts from around the globe for a few remarks, refreshments and lots of conversation about travel and highpointing conquests.  Share your own stories and embellish a little, if you like.
+
+Notes: A cash bar will be available.  Food will not be provided, but guests are welcome to bring in food, including orders from any restuarants within the resort.
 
 # Friday, June 24
 
-_Sunrise is 5:47 am_<br/>
-_Sunset is 8:51 pm_
+### 📃 **On-Site Registration Desk and Highpointers’ Shoppe**
 
-**On-Site Registration Desk and Highpointers’ Shoppe\***, Times TBA. (Resort)
+Time: 9 a.m. - 5 p.m.
 
-☕ **Continental Breakfast\***, 8-10 a.m. (TBA)
+Location: Laurel Room \(2nd floor, Convention Center\)
 
-Grab your coffee, juice, and light fare and get ready for a day of exploring and adventure! 
+### ☕ **Continental Breakfast**
 
-**Daytime Programs**, 8 a.m.-5 p.m. (Resort and Off-Site)
+Time: 7-8:45 a.m.
 
-Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of trails and amenities offered at the resort, or participate in organized hikes, outdoor talks, and other activities.
+Location: Snowflake Room \(3rd floor, Convention Center\)
 
-🙋‍♀️🙋‍♂️**Trivia Soiree\***, 8-11 p.m. (Resort TBA)
+What: Grab your freshly brewed coffee, tea, fruit juice, and a danish or donut. Get ready for a day of exploring and adventure!
 
-Join in on the fun and games! Two trivia sessions: one “general trivia” session for the whole family, followed by a “geo-trivia” session for the hard-core outdoor crowd! Prizes, refreshments, and more.
+## **Daytime Programs**
 
-**Afterglow\***, 11p.m. (Foggy Goggle/Bavarian Lounge – Resort)
+Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of [trails](https://ogden-images-pagely.s3.amazonaws.com/www.7springs.com/images/2020/05/SummerTrailGuide_2020_pg1.pdf) and amenities offered at the resort, or participate in [organized hikes](group-hikes.md), outdoor talks, and other activities.
 
-Live music and cash bar. 
+### **Flight 93 National Memorial**
 
+Time: 11 a.m.
 
-# Saturday, June 25 
-_Sunrise is at 5:48 am_<br/>
-_Sunset is 8:51 pm_
+Location: 6424 Lincoln Hwy, Stoystown, PA 15563
 
-**On-Site Registration Desk and Highpointers’ Shoppe\***, Times TBA. (Resort)
+What: A group will be going to visit the Flight 93 Memorial after breakfast.  The U.S. Park Service has built a very nice [memorial and visitors center](https://www.nps.gov/flni/index.htm). Expect to spend about an hour here, possible a little longer.
 
- 🥞 **Mountain Breakfast\***, 8-9:30 a.m. (Slopeside – Seven Springs Resort, [Breakfast Menu](https://ogden_images.s3.amazonaws.com/www.7springs.com/images/2021/01/slopeside-breakfast-113020_web.pdf))
+Notes: The memorial is roughly 30 miles (~45 min drive) east of 7 Springs Resort.
 
- We recommend leaving Seven Springs at 9:30am to get to the Watermelon feast in time for group photos.
+### **GAP Trail Hike**
 
-🍉 **Mt. Davis Celebration and Wendy Comstock Watermelon Feast\***, 11 a.m. (Mt. Davis)
+Time: 2 p.m.
 
-Konvention attendees will gather at Pennsylvania’s highpoint, Mt. Davis, located in Forbes State Park. Proceedings include a few brief remarks about the highpoint from the PA Department of Natural Resources and a traditional watermelon toast, followed by the opportunity to explore the site and interpretive exhibits.  Participants should wear their Konvention T-shirt, as a group photo will be taken. Hiking afterwards is recommended.
+Location: Meyersdale Area Historical Society, 527 Main St, Meyersdale, PA 15552
+
+What: We will be parking at the Meyersdale Area Historical Society (Trail access is behind their building) and heading southwards along the GAP trail. The planned hike is to travel 3 miles (one way. 6 miles total) south to the Keystone viaduct, then returning north to Meyersdale.  Guests are welcome to join for some or all of this hike!
+
+### **Post-Hike Recovery Stop**
+
+Time: 4 - 6 p.m.
+
+Location: Trailhead Brewing Company, 402 Main St Suite C, Rockwood, PA 15557
+
+What: It's a long drive back to Seven Springs after that hike, so let's cut it in half with some refreshments at a local brewery.  Feel free to stop in and discuss your GAP adventures!
+
+### 🙋‍♀️🙋‍♂️**Trivia Soiree**
+
+Time: 7 - 10 p.m.
+
+Location: Matterhorn and Deck \(3rd floor, Main Lodge)
+
+What: Join in on the fun and games! Two trivia sessions: one “general trivia” session for the whole family, followed by a “geo-trivia” session for the hard-core outdoor crowd! Prizes, refreshments, and more.
+
+Notes: A cash bar will be available.  Food will not be provided, but guests are welcome to bring in food, including orders from any restuarants within the resort.
+
+# Saturday, June 25
+
+### 📃 **On-Site Registration Desk and Highpointers’ Shoppe**
+
+Time: 9 a.m. - Noon.
+
+Location: Laurel Room \(2nd floor, Convention Center\)
+
+### 🥞 **Mountain Breakfast**
+
+Time: 7 - 9 a.m.
+
+Location: Slopeside Dining Room \(4th floor, Main Lodge\)
+
+What: Full breakfast, served buffet style. Come fill up before heading out for the day's festivities!
+
+## **Daylight Programs**
+
+Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of [trails](https://ogden-images-pagely.s3.amazonaws.com/www.7springs.com/images/2020/05/SummerTrailGuide_2020_pg1.pdf) and amenities offered at the resort, or participate in [organized hikes](group-hikes.md), outdoor talks, and other activities.
+
+### 🍉 **Mt. Davis Celebration and Wendy Comstock Watermelon Feast**
+
+Time: 11 a.m.
+
+Location: Mt. Davis, Elk Lick Township, PA 15558
+
+**We recommend leaving Seven Springs by 9:45 a.m. to get to the Watermelon feast in time for group photos.**
+
+What: Konvention attendees will gather at Pennsylvania’s highpoint, Mt. Davis, located in Forbes State Park. Proceedings include a few brief remarks about the highpoint from the PA Department of Natural Resources and a traditional watermelon toast, followed by the opportunity to explore the site and interpretive exhibits.  Participants should wear their Konvention T-shirt, as a group photo will be taken. Hiking afterwards is recommended.
 
 Do not park on the grass. There are 50 parking spaces at the [parking Lot and picnic area **CCC Site 97**"](https://goo.gl/maps/AeG4EXsmWeRRkCQh6) and another 20 spaces at the [smaller parking lot](https://goo.gl/maps/AeG4EXsmWeRRkCQh6). Parking at the CCC Site 97 is recommended.
 
+Please not that there is a short ~1/2 mile hike from the CCC Site 97 lot to the highpoint.
+
 ![image](WelcomeToMtDavisPicnicAreaForbesStateForestBureauOfForestryDCNR.jpg)
 
+### **Forbes State Forest Hike**
 
-**Daylight Programs**, Noon-5 p.m. (Resort and Off-Site)
+Time: Noon
 
-Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of trails and amenities offered at the resort, or participate in organized hikes, outdoor talks, and other activities.
+Location: Mt. Davis, Elk Lick Township, PA 15558
 
-<!--TODO: LINK TO GROUP HIKES-->
+What: We will be hiking the Mt. Davis Pennsylvania Highpoint Trail.  We will have already walked part of this trail from CCC Site 97 to the highpoint.  This hike will leave from the highpoint and follow the trail counter-clockwise areound Forbes State Forest, ending back at CCC Site 97. Total distance is approximately 4.5 miles, and should take a little over 2 hours to complete.
 
-**Highpointers Club Meetings**, 12:45-4:30 p.m. (Snow Room – Resort)
-- Foundation Meeting*, 12:45-2:15 p.m.
-- Club Meeting*, 2:30-4:30 p.m.
+### **Highpointers Foundation Meeting**
 
-**Happy-Hour\***    5-6 p.m. (Grand Ballroom – Resort)
+Time: 12:45 - 2:15 p.m.
 
- **Annual Dinner\***	6-8 p.m. (Grand Ballroom – Resort)
+Location: Snowflake Room \(3rd floor, Convention Center\)
 
-Wrap up the convention with a celebration of highpointing and the spirit of bringing people together.  The nomination of locations for the 2023 and 2024 Konventions will conducted after dinner! Konvention location elections will be conducted by mail.
+### **Highpointers Club Meeting**
 
+Time: 2:30 - 4:30 p.m.
 
+Location: Snowflake Room \(3rd floor, Convention Center\)
 
+### **Happy-Hour**
+
+Time: 5 - 6 p.m.
+
+Location: Exhibit Hall \(4th floor, Convention Center\)
+
+### **Annual Dinner**
+
+Time: 6 - 9 p.m.
+
+Location: Exhibit Hall \(4th floor, Convention Center\)
+
+What: Wrap up the convention with a celebration of highpointing and the spirit of bringing people together.  The nomination of locations for the 2023 and 2024 Konventions will conducted after dinner! Konvention location elections will be conducted by mail.
+
+# Sunday, June 26
+
+On Sunday morning, the [Slopeside Dining Room](https://ogden_images.s3.amazonaws.com/www.7springs.com/images/2021/01/slopeside-breakfast-113020_web.pdf) will be open on from 7am to 10am for anyone who whishes to order an à la carte breakfast before departing.
