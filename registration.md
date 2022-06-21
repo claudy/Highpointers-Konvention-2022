@@ -1,16 +1,8 @@
 [Home](index.md) - Registration - [Lodging](lodging.md) - [Schedule](schedule.md) - [Nearby Attractions](nearby-attractions.md) - [Group Hikes](group-hikes.md) 
 
 # Registration
-## Adults
-- $95 for club members
-    - [Join the club!](https://highpointers.org/application/)
-- $110 non-members. Non-members are welcome! 
 
-## Children (Ages 5-12)
-- $60 club member
-    - [Join the club!](https://highpointers.org/application/)
-- $75 non-member
-- Under 5, no T-shirt — FREE
+**Mail-in registration has closed. If you are planning to register in-person at the Konvention, please contact your host committee at [konventionpa22@gmail.com](mailto:konventionpa22@gmail.com).**
 
 # Instructions
 **[Download the registration form](./Registration_Form_updated_2021_11_29.pdf)** and send by mail, with a check made payable to: <br/>
@@ -29,12 +21,14 @@ If you would like to donate to the Highpointers Foundation, please consider roun
 
 ## On-Site Registration table and Highpointers’ Shoppe (Merc) Hours
 Sign in at the registration table when you arrive.
+Registration will be located in the Laurel Room, on the 2nd floor of the Convention Center section of the resort.
+
         
 | Day           | Time            |
 |---------------|-----------------|
-| 6/23 Thursday | TBA |
-| 6/24 Friday   | TBA |
-| 6/25 Saturday | TBA |
+| 6/23 Thursday | Noon - 9 p.m. |
+| 6/24 Friday   | 9 a.m. - 5 p.m. |
+| 6/25 Saturday | 9 a.m. - 5 p.m. |
 
 # Questions and Answers
 Q: Do I have to sign this liability waiver? 
