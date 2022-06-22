@@ -12,7 +12,7 @@ _Sunset is 8:51 pm_
 
 ### 📃 **On-Site Registration Desk and Highpointers’ Shoppe**
 
-Time: Noon - 9 p.m.
+Time: Noon - 6 p.m.
 
 Location: Laurel Room \(2nd floor, Convention Center\)
 
@@ -20,11 +20,11 @@ Location: Laurel Room \(2nd floor, Convention Center\)
 
 Time: 7 - 10 p.m.
 
-Location: Matterhorn and Deck \(3rd floor, Main Lodge)
+Location: Matterhorn Lounge and Deck \(3rd floor, Main Lodge)
 
-What: A kickoff meet and greet for Konvention PA-22 attendees!  Join outdoor enthusiasts from around the globe for a few remarks, refreshments and lots of conversation about travel and highpointing conquests.  Share your own stories and embellish a little, if you like.
+What: A kickoff meet and greet for Konvention PA-22 attendees!  Join outdoor enthusiasts from around the globe for a few remarks, refreshments and lots of conversation about travel and highpointing conquests.  Share your own stories and embellish a little, if you like. At 7:30 p.m., a short presentation will be made by Ron Aldom, Executive Director of the Somerset County Chamber of Commerce, welcoming attendees and providing local information.
 
-> Note: A cash bar will be available.  Food will not be provided, but guests are welcome to bring in food, and restuarants within the resort will be open.
+> Note: A cash bar will be available.  Food is not served at this location. However, guests are welcome to bring in food, and restuarants within the resort will be open.
 
 -----------
 
@@ -40,23 +40,29 @@ Location: Laurel Room \(2nd floor, Convention Center\)
 
 ### ☕ **Continental Breakfast**
 
-Time: 7-8:45 a.m.
+Time: 7 - 8:45 a.m.
 
 Location: Snowflake Room \(3rd floor, Convention Center\)
 
-What: Grab your freshly brewed coffee, tea, fruit juice, and a danish or donut. Get ready for a day of exploring and adventure!
+What: Grab your freshly brewed coffee or tea and a danish or donut. Get ready for a day of exploring and adventure!
 
-## **Daytime Programs**
+## **Daytime Programs (Optional)**
 
 Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of [trails](https://ogden-images-pagely.s3.amazonaws.com/www.7springs.com/images/2020/05/SummerTrailGuide_2020_pg1.pdf) and amenities offered at the resort, or participate in [organized hikes](group-hikes.md), outdoor talks, and other activities.
 
+### 🥾 **Somerset County High Point Hike**
+
+Time: leaving from Snowflake Room at 8 a.m.
+
+What: Seven Sprints resort contains the high point of Somerset County, near Lake Tahoe on the summit of ski slopes. We will be hiking from the resort to the summit and back. Estimated round-trip time is 1.5 hours. Vertical climb is approximately 525 feet over 1.3 miles (one way).
+
 ### 🏛 **Flight 93 National Memorial**
 
-Time: 11 a.m.
+Time: meeting there at 11 a.m.
 
 Location: 6424 Lincoln Hwy, Stoystown, PA 15563
 
-What: A group will be going to visit the Flight 93 Memorial after breakfast.  The U.S. Park Service has built a very nice [memorial and visitors center](https://www.nps.gov/flni/index.htm). Expect to spend about an hour here, possible a little longer.
+What: A group will be going to visit the Flight 93 Memorial after breakfast.  The U.S. Park Service has built a very nice [memorial and visitors center](https://www.nps.gov/flni/index.htm). Expect to spend about an hour here, possibly a little longer.
 
 > Note: The memorial is roughly 30 miles (~45 min drive) east of Seven Springs Resort.
 
@@ -86,9 +92,9 @@ Time: 7 - 10 p.m.
 
 Location: Matterhorn and Deck \(3rd floor, Main Lodge)
 
-What: Join in on the fun and games! Two trivia sessions: one “general trivia” session for the whole family, followed by a “geo-trivia” session for the hard-core outdoor crowd! Prizes, refreshments, and more.
+What: Join in on the fun and games! Form a team and take part in a "general trivia” session for the whole family, mixed in with some “geo-trivia” questions the hard-core outdoor crowd! Trivia starts at 7:30 p.m. and lasts approximately 1.5 hours.
 
-> Note: A cash bar will be available.  Food will not be provided, but guests are welcome to bring in food, and restuarants within the resort will be open.
+> Note: A cash bar will be available.  Food is not served at this location. However, guests are welcome to bring in food, and restuarants within the resort will be open.
 
 -----------
 
@@ -98,7 +104,7 @@ What: Join in on the fun and games! Two trivia sessions: one “general trivia�
 
 ### 📃 **On-Site Registration Desk and Highpointers’ Shoppe**
 
-Time: 9 a.m. - Noon.
+Time: TBD
 
 Location: Laurel Room \(2nd floor, Convention Center\)
 
@@ -110,7 +116,7 @@ Location: Slopeside Dining Room \(4th floor, Main Lodge\)
 
 What: Full breakfast, served buffet style. Come fill up before heading out for the day's festivities!
 
-## **Daylight Programs**
+## **Daytime Programs (Optional)**
 
 Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of [trails](https://ogden-images-pagely.s3.amazonaws.com/www.7springs.com/images/2020/05/SummerTrailGuide_2020_pg1.pdf) and amenities offered at the resort, or participate in [organized hikes](group-hikes.md), outdoor talks, and other activities.
 
@@ -124,7 +130,7 @@ Location: Mt. Davis, Elk Lick Township, PA 15558
 
 What: Konvention attendees will gather at Pennsylvania’s highpoint, Mt. Davis, located in Forbes State Park. Proceedings include a few brief remarks about the highpoint from the PA Department of Natural Resources and a traditional watermelon toast, followed by the opportunity to explore the site and interpretive exhibits.  Participants should wear their Konvention T-shirt, as a group photo will be taken. Hiking afterwards is recommended.
 
-**Do not park on the grass or on the side of the road.** There are 50 parking spaces at the [parking Lot and picnic area **CCC Site 97**"](https://goo.gl/maps/AeG4EXsmWeRRkCQh6) and another 20 spaces at the [smaller parking lot](https://goo.gl/maps/AeG4EXsmWeRRkCQh6). Parking at the CCC Site 97 is recommended.
+**Please consider car-pooling if you can. Do not park on the grass or on the side of the road.** There are 50 parking spaces at the [parking Lot and picnic area **CCC Site 97**"](https://goo.gl/maps/AeG4EXsmWeRRkCQh6) and another 20 spaces at the [smaller parking lot](https://goo.gl/maps/AeG4EXsmWeRRkCQh6). Parking at the CCC Site 97 is recommended.
 
 Please note that there is a short ~1/2 mile hike from the CCC Site 97 lot to the highpoint.
 
