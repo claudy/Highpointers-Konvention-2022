@@ -128,7 +128,7 @@ Location: Mt. Davis, Elk Lick Township, PA 15558
 
 **We recommend leaving Seven Springs by 9:30 a.m. to get to the Watermelon feast in time for group photos.**
 
-What: Konvention attendees will gather at Pennsylvania’s highpoint, Mt. Davis, located in Forbes State Park. Proceedings include a few brief remarks about the highpoint from the PA Department of Natural Resources and a traditional watermelon toast, followed by the opportunity to explore the site and interpretive exhibits.  Participants should wear their Konvention T-shirt, as a group photo will be taken. Hiking afterwards is recommended.
+What: Konvention attendees will gather at Pennsylvania’s highpoint, Mt. Davis, located in Forbes State Park. Proceedings include a few brief remarks about the highpoint by Rachael Mahony of the PA Department of Conservation and Natural Resources and a traditional watermelon toast, followed by the opportunity to explore the site and interpretive exhibits.  Participants should wear their Konvention T-shirt, as a group photo will be taken. Hiking afterwards is recommended.
 
 **Please consider car-pooling if you can. Do not park on the grass or on the side of the road.** There are 50 parking spaces at the [parking Lot and picnic area **CCC Site 97**"](https://goo.gl/maps/AeG4EXsmWeRRkCQh6) and another 20 spaces at the [smaller parking lot](https://goo.gl/maps/AeG4EXsmWeRRkCQh6). Parking at the CCC Site 97 is recommended.
 
