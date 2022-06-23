@@ -8,12 +8,12 @@ Have an idea for a hike you would like to lead? Email us at [konventionpa22@gmai
 Seven Springs published a [hiking trails map](https://ogden-images-pagely.s3.amazonaws.com/www.7springs.com/images/2020/05/SummerTrailGuide_2020_pg1.pdf) showing trails within walking distance of the lodge.
 
 
-| Title                            | Day           | Start Time |
+<!--| Title                            | Day           | Start Time |
 |----------------------------------|---------------|------------|
 | Alan Ritter's Map and Compass 101| Friday 6/24   | TBA        |
 | Flight 93 Memorial               | Friday 6/24   | 11 a.m.    |
 | Trailhead Brewery Hike           | Friday 6/24   | 2 p.m.     |
-
+x
 # Descriptions
 
 ## Alan Ritter's Map and Compass 101
@@ -44,4 +44,5 @@ No entrance fee. Parking is free. The visitor center has a permanent exhibit.
 **Location**: Trailhead Brewing Company<br/>
 **Difficulty**: Easy<br/>
 
-Meeting at Trailhead Brewing Company to enjoy beer, then walk along a section of the Greater Allegheny Passage bike trail a.k.a. "The GAP", return to the brewery.
+Meeting at Trailhead Brewing Company to enjoy beer, then walk along a section of the Greater Allegheny Passage bike trail a.k.a. "The GAP", return to the brewery.-->
+
