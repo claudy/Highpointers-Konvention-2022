@@ -50,11 +50,13 @@ What: Grab your freshly brewed coffee or tea and a danish or donut. Get ready fo
 
 Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of [trails](https://ogden-images-pagely.s3.amazonaws.com/www.7springs.com/images/2020/05/SummerTrailGuide_2020_pg1.pdf) and amenities offered at the resort, or participate in [organized hikes](group-hikes.md), outdoor talks, and other activities.
 
-### 🥾 **Somerset County High Point Hike**
+### 🥾 **Westmoreland County Highpoint Hike**
 
 Time: leaving from Snowflake Room at 8 a.m.
 
-What: Seven Sprints resort contains the high point of Somerset County, near Lake Tahoe on the summit of the ski slopes. We will be hiking from the resort to the summit and back. Estimated round-trip time is 1.5 hours. Vertical climb is approximately 525 feet over 1.3 miles (one way).
+What: Seven Sprints resort contains the high point of Westmoreland County, near Lake Tahoe on the summit of the ski slopes. We will be hiking from the resort to the summit and back. Estimated round-trip time is 1.5 hours. Vertical climb is approximately 525 feet over 1.3 miles (one way).
+
+>Note: This was mistakenly labled as Somerset County on the printed schedules.  The highpoint of Somerset County is Mt. Davis, where we'll all be on Saturday.
 
 ### 🏛 **Flight 93 National Memorial**
 
@@ -68,8 +70,7 @@ What: A group will be going to visit the Flight 93 Memorial after breakfast.  Th
 
 ### 👨‍🏫 **Classroom Instruction \(courtesy of Alan Ritter \)**
 
-Time: 1 p.m. - Orienteering
-      2:30 p.m. - Basic Climbing Knots
+Time: 1 p.m. - Orienteering, 2:30 p.m. - Basic Climbing Knots
 
 Location: Snowflake Room \(3rd floor, Convention Center\)
 
@@ -94,6 +95,8 @@ Time: 4 - 6 p.m.
 Location: Trailhead Brewing Company, 402 Main St Suite C, Rockwood, PA 15557
 
 What: It's a long drive back to Seven Springs after that hike, so let's cut it in half with some refreshments at a local brewery.  Feel free to stop in and discuss your GAP adventures! Please note that the brewery opens at 4pm on Friday, so this may be the one time you don't need to get there early!
+
+>Note: For those driving from Rockwood back to Seven Springs afterwards, please be advised that Copper Kettle Highway has a road closure.  However, there are clearly market detour signs that will take you around the closure, adding approximately 10 minutes to your trip.
 
 ### 🙋‍♀️🙋‍♂️**Trivia Soiree**
 
@@ -123,19 +126,19 @@ Time: 7 - 9 a.m.
 
 Location: Slopeside Dining Room \(4th floor, Main Lodge\)
 
-What: Full breakfast, served buffet style. Come fill up before heading out for the day's festivities!
+What: Full breakfast, served buffet style. Come fill up before heading out for the day's festivities! The breakfast ticket you received at check-in is redeemable for this event.
 
 ## **Daytime Programs (Optional)**
 
 Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of [trails](https://ogden-images-pagely.s3.amazonaws.com/www.7springs.com/images/2020/05/SummerTrailGuide_2020_pg1.pdf) and amenities offered at the resort, or participate in [organized hikes](group-hikes.md), outdoor talks, and other activities.
 
-### 🍉 **Mt. Davis Celebration and Wendy Comstock Watermelon Feast**
+### 🍉 **Mt. Davis Celebration and Wendy Comstock Watermelon Festival**
 
 Time: 11 a.m.
 
 Location: Mt. Davis, Elk Lick Township, PA 15558
 
-**We recommend leaving Seven Springs by 9:30 a.m. to get to the Watermelon feast in time for group photos.**
+**We recommend leaving Seven Springs by 9:30 a.m. to get to the Watermelon Festival in time for group photos.**
 
 What: Konvention attendees will gather at Pennsylvania’s highpoint, Mt. Davis, located in Forbes State Park. Proceedings include a few brief remarks about the highpoint by Rachael Mahony of the PA Department of Conservation and Natural Resources and a traditional watermelon toast, followed by the opportunity to explore the site and interpretive exhibits.  Participants should wear their Konvention T-shirt, as a group photo will be taken. Hiking afterwards is recommended.
 
@@ -185,7 +188,7 @@ Time: 6 - 9 p.m.
 
 Location: Exhibit Hall \(4th floor, Convention Center\)
 
-What: Wrap up the convention with a celebration of highpointing and the spirit of bringing people together.  The nomination of locations for the 2023 and 2024 Konventions will conducted after dinner! Konvention location elections will be conducted by mail.
+What: Wrap up the convention with a celebration of highpointing and the spirit of bringing people together.  The nomination of locations for the 2023 and 2024 Konventions will conducted after dinner! Konvention location elections **WILL** now also be held after dinner! The dinner ticket you received at check-in in redeemable for this event.
 
 # Sunday, June 26
 
