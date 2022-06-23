@@ -34,7 +34,7 @@ What: A kickoff meet and greet for Konvention PA-22 attendees!  Join outdoor ent
 
 ### 📃 **On-Site Registration Desk and Highpointers’ Shoppe**
 
-Time: 9 a.m. - 5 p.m.
+Time: 9 a.m. - 2 p.m. \(_Tentatively ending at 2pm. We will likely go later._\)
 
 Location: Laurel Room \(2nd floor, Convention Center\)
 
@@ -54,7 +54,7 @@ Konvention attendees can choose to explore the Laurel Highlands region on their 
 
 Time: leaving from Snowflake Room at 8 a.m.
 
-What: Seven Sprints resort contains the high point of Somerset County, near Lake Tahoe on the summit of ski slopes. We will be hiking from the resort to the summit and back. Estimated round-trip time is 1.5 hours. Vertical climb is approximately 525 feet over 1.3 miles (one way).
+What: Seven Sprints resort contains the high point of Somerset County, near Lake Tahoe on the summit of the ski slopes. We will be hiking from the resort to the summit and back. Estimated round-trip time is 1.5 hours. Vertical climb is approximately 525 feet over 1.3 miles (one way).
 
 ### 🏛 **Flight 93 National Memorial**
 
@@ -65,6 +65,15 @@ Location: 6424 Lincoln Hwy, Stoystown, PA 15563
 What: A group will be going to visit the Flight 93 Memorial after breakfast.  The U.S. Park Service has built a very nice [memorial and visitors center](https://www.nps.gov/flni/index.htm). Expect to spend about an hour here, possibly a little longer.
 
 > Note: The memorial is roughly 30 miles (~45 min drive) east of Seven Springs Resort.
+
+### 👨‍🏫 **Classroom Instruction \(courtesy of Alan Ritter \)**
+
+Time: 1 p.m. - Orienteering
+      2:30 p.m. - Basic Climbing Knots
+
+Location: Snowflake Room \(3rd floor, Convention Center\)
+
+What: Alan has graciously volunteered to teach two classes this afternoon. The first will cover orienteering and basic outdoor navigational skills, while the second will cover the basic knots used when climbing.  Each class will last approximately one hour.
 
 ### 🥾 **GAP Trail Hike**
 
@@ -104,7 +113,7 @@ What: Join in on the fun and games! Form a team and take part in a "general triv
 
 ### 📃 **On-Site Registration Desk and Highpointers’ Shoppe**
 
-Time: TBD
+Time: TBD \(_Closed in the morning for the Watermelon Fest and Highpoint meetup. Tentatively open in the afternoon. Hours to come._\)
 
 Location: Laurel Room \(2nd floor, Convention Center\)
 
@@ -143,6 +152,14 @@ Time: Noon
 Location: Mt. Davis, Elk Lick Township, PA 15558
 
 What: A hike along the Mt. Davis Pennsylvania Highpoint Trail.  We will have already walked part of this trail from CCC Site 97 to the highpoint.  This hike will leave from the highpoint and follow the trail counter-clockwise around Forbes State Forest, ending back at CCC Site 97. Total distance is approximately 4.5 miles, and should take a little over 2 hours to complete.
+
+### 📷 **Scenic Photo Gallery \(courtesy of James Suits\)**
+
+Time: TBD (afternoon)
+
+Location: Laurel Room \(2nd floor, Convention Center\) \(_*tbd. Awaiting confirmation._\)
+
+What: Come and enjoy scenic photos from around the country!  James will be available to provide some context and talk to you about his travels to all these amazing places.
 
 ### 📈 **Highpointers Foundation Meeting**
 
