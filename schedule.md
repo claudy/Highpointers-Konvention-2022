@@ -24,7 +24,7 @@ Location: Matterhorn Lounge and Deck \(3rd floor, Main Lodge)
 
 What: A kickoff meet and greet for Konvention PA-22 attendees!  Join outdoor enthusiasts from around the globe for a few remarks, refreshments and lots of conversation about travel and highpointing conquests.  Share your own stories and embellish a little, if you like. At 7:30 p.m., a short presentation will be made by Ron Aldom, Executive Director of the Somerset County Chamber of Commerce, welcoming attendees and providing local information.
 
-> Note: A cash bar will be available.  Food is not served at this location. However, guests are welcome to bring in food, and restuarants within the resort will be open.
+> Note: A cash bar will be available.  Food is not served at this location. However, guests are welcome to bring in food, and restaurants within the resort will be open.
 
 -----------
 
@@ -56,7 +56,7 @@ Time: leaving from Snowflake Room at 8 a.m.
 
 What: Seven Sprints resort contains the high point of Fayette County, near Lake Tahoe on the summit of the ski slopes. We will be hiking from the resort to the summit and back. Estimated round-trip time is 1.5 hours. Vertical climb is approximately 525 feet over 1.3 miles (one way).
 
->Note: This was mistakenly labled as Somerset County on the printed schedules.  The highpoint of Somerset County is Mt. Davis, where we'll all be on Saturday.
+>Note: This was mistakenly labeled as Somerset County on the printed schedules.  The highpoint of Somerset County is Mt. Davis, where we'll all be on Saturday.
 
 ### 🏛 **Flight 93 National Memorial**
 
@@ -108,7 +108,7 @@ Location: Matterhorn and Deck \(3rd floor, Main Lodge\)
 
 What: Join in on the fun and games! Form a team and take part in a "general trivia” session for the whole family, mixed in with some “geo-trivia” questions the hard-core outdoor crowd! Trivia starts at 7:30 p.m. and lasts approximately 1.5 hours.
 
-> Note: A cash bar will be available.  Food is not served at this location. However, guests are welcome to bring in food, and restuarants within the resort will be open.
+> Note: A cash bar will be available.  Food is not served at this location. However, guests are welcome to bring in food, and restaurants within the resort will be open.
 
 -----------
 
@@ -146,6 +146,8 @@ What: Konvention attendees will gather at Pennsylvania’s highpoint, Mt. Davis,
 
 **Please consider car-pooling if you can. Do not park on the grass or on the side of the road.** There are 50 parking spaces at the [parking Lot and picnic area **CCC Site 97**"](https://goo.gl/maps/AeG4EXsmWeRRkCQh6) and another 20 spaces at the [smaller parking lot](https://goo.gl/maps/AeG4EXsmWeRRkCQh6). Parking at the CCC Site 97 is recommended.
 
+[Printable Directions to large parking lot](Directions%20Seven%20Springs%20to%20Mount%20Davis%20Pennsylvania%20Highpoint%20Trailhead%20from%20Google%20Maps.pdf)
+
 Please note that there is a short ~1/2 mile hike from the CCC Site 97 lot to the highpoint.
 
 ![image](WelcomeToMtDavisPicnicAreaForbesStateForestBureauOfForestryDCNR.jpg)
@@ -156,7 +158,9 @@ Time: Noon
 
 Location: Mt. Davis, Elk Lick Township, PA 15558
 
-What: A hike along the Mt. Davis Pennsylvania Highpoint Trail.  We will have already walked part of this trail from CCC Site 97 to the highpoint.  This hike will leave from the highpoint and follow the trail counter-clockwise around Forbes State Forest, ending back at CCC Site 97. Total distance is approximately 4.5 miles, and should take a little over 2 hours to complete.
+What: A hike along the Mt. Davis Pennsylvania Highpoint Trail.  We will have already walked part of this trail from the large parking lot / picnic area to the highpoint.  This hike will leave from the highpoint and follow the trail counter-clockwise around Forbes State Forest, ending back at the large parking lot / picnic area (CCC Site 97). Total distance is approximately 4.5 miles, and should take a little over 2 hours to complete.
+
+> Be sure to bring snacks or a lunch with you. The nearest food is at least seven miles away. Lunch will not be provided.
 
 ### 📷 **Scenic Photo Gallery \(courtesy of James Suits\)**
 
