@@ -1,8 +1,8 @@
 [Home](index.md) - [Registration](registration.md) - [Lodging](lodging.md) - **Schedule** - [Nearby Attractions](nearby-attractions.md) - [Group Hikes](group-hikes.md) 
 
 # Schedule of Konvention Events
-_Sunrise is 5:47 am_<br/>
-_Sunset is 8:51 pm_
+_Sunrise is 5:50 am_<br/>
+_Sunset is 8:50 pm_
 
 -----------
 
