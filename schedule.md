@@ -50,11 +50,11 @@ What: Grab your freshly brewed coffee or tea and a danish or donut. Get ready fo
 
 Konvention attendees can choose to explore the Laurel Highlands region on their own, take advantage of [trails](https://ogden-images-pagely.s3.amazonaws.com/www.7springs.com/images/2020/05/SummerTrailGuide_2020_pg1.pdf) and amenities offered at the resort, or participate in [organized hikes](group-hikes.md), outdoor talks, and other activities.
 
-### 🥾 **Westmoreland County Highpoint Hike**
+### 🥾 **Fayette County Highpoint Hike**
 
 Time: leaving from Snowflake Room at 8 a.m.
 
-What: Seven Sprints resort contains the high point of Westmoreland County, near Lake Tahoe on the summit of the ski slopes. We will be hiking from the resort to the summit and back. Estimated round-trip time is 1.5 hours. Vertical climb is approximately 525 feet over 1.3 miles (one way).
+What: Seven Sprints resort contains the high point of Fayette County, near Lake Tahoe on the summit of the ski slopes. We will be hiking from the resort to the summit and back. Estimated round-trip time is 1.5 hours. Vertical climb is approximately 525 feet over 1.3 miles (one way).
 
 >Note: This was mistakenly labled as Somerset County on the printed schedules.  The highpoint of Somerset County is Mt. Davis, where we'll all be on Saturday.
 
