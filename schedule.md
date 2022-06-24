@@ -98,11 +98,13 @@ What: It's a long drive back to Seven Springs after that hike, so let's cut it i
 
 >Note: For those driving from Rockwood back to Seven Springs afterwards, please be advised that Copper Kettle Highway has a road closure.  However, there are clearly market detour signs that will take you around the closure, adding approximately 10 minutes to your trip.
 
+>Parking Note: Parking at the brewery is limited. Attendees are welcome to park along Main Street, or in the gravel lot next "BackSpace2", located about 200ft down the street. [Map Link](https://www.google.com/maps/place/39%C2%B054'50.7%22N+79%C2%B009'28.8%22W/@39.9140727,-79.1585387,212m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0xca9cb559bf2b1aaf!8m2!3d39.9140717!4d-79.1579915)
+
 ### 🙋‍♀️🙋‍♂️**Trivia Soiree**
 
 Time: 7 - 10 p.m.
 
-Location: Matterhorn and Deck \(3rd floor, Main Lodge)
+Location: Matterhorn and Deck \(3rd floor, Main Lodge\)
 
 What: Join in on the fun and games! Form a team and take part in a "general trivia” session for the whole family, mixed in with some “geo-trivia” questions the hard-core outdoor crowd! Trivia starts at 7:30 p.m. and lasts approximately 1.5 hours.
 
